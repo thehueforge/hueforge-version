@@ -1,60 +1,63 @@
 {
 	"HueForge Wiki": [
-		{"Main Page" : "https://hueforge.wiki"},
-		{"Common Terms" : "https://hueforge.wiki/index.php/Common_Terms"},
-		{"Hotkeys" : "https://hueforge.wiki/index.php/HueForge_Hotkeys"},
-		{"Troubleshooting" : "https://hueforge.wiki/index.php/Troubleshooting"},
-        {"Summary of v0.9.0 UI Changes" : "https://hueforge.wiki/index.php/Office_Hours_v0.9.0_UI_Changes"},
-		{"FAQ" : "https://hueforge.wiki/index.php/FAQ"},
-		{"How To: Standard Mode" : "https://hueforge.wiki/index.php/Standard"},
-		{"How To: Color Pop" : "https://hueforge.wiki/index.php/Color_Pop"},
-		{"How To: Color Aware" : "https://hueforge.wiki/index.php/Color_Aware"},
-		{"How To: Color Match" : "https://hueforge.wiki/index.php/Color_Match"},
-		{"How To: Stained Glass" : "https://hueforge.wiki/index.php/Stained_Glass"}
+		{ "Main Page": "https://hueforge.wiki" },
+		{ "Common Terms": "https://hueforge.wiki/index.php/Common_Terms" },
+		{ "Hotkeys": "https://hueforge.wiki/index.php/HueForge_Hotkeys" },
+		{ "Troubleshooting": "https://hueforge.wiki/index.php/Troubleshooting" },
+		{ "Summary of v0.9.0 UI Changes": "https://hueforge.wiki/index.php/Office_Hours_v0.9.0_UI_Changes" },
+		{ "FAQ": "https://hueforge.wiki/index.php/FAQ" },
+		{ "How To: Standard Mode": "https://hueforge.wiki/index.php/Standard" },
+		{ "How To: Color Pop": "https://hueforge.wiki/index.php/Color_Pop" },
+		{ "How To: Color Aware": "https://hueforge.wiki/index.php/Color_Aware" },
+		{ "How To: Color Match": "https://hueforge.wiki/index.php/Color_Match" },
+		{ "How To: Stained Glass": "https://hueforge.wiki/index.php/Stained_Glass" }
 	],
-    "v0.9.x Crash Course": [
-        { "v0.9.0 Crash Course Playlist": "https://www.youtube.com/watch?v=cIrGPaCTSg8&list=PLgp_gHqrsnIrXSjR_p5cAsB38n_ZfSQiq" }
-    ],
+	"v0.9.x Crash Course": [
+		{ "v0.9.0 Crash Course Playlist": "https://www.youtube.com/watch?v=cIrGPaCTSg8&list=PLgp_gHqrsnIrXSjR_p5cAsB38n_ZfSQiq" }
+	],
 	"Shorts": [
-        { "How does the Color Core Work": "https://youtu.be/IlJaqKz9vGE?si=pwHo4e-8L9saEdc5" },
-        { "What is TD and Why Do I Care": "https://youtu.be/z47_97qZr0k?si=0-rmuQPSPeTV4E86" },
-        { "How to Slice a HueForge (Orca)": "https://youtu.be/Vp7JKTsfurU?si=ymhWamMmxhOWfMGF" },
-        { "How to Make Your HueForge Thicker": "https://youtu.be/LIKOxri-LEc?si=HPYDJn8ZjUST4duy" },
-        { "How to Add Your Filaments": "https://youtu.be/PHPadcdA-mU?si=ILfVuVwKy6-Nslkn" },
-        { "What is Slicer View": "https://youtu.be/Hg--2FbP30Y?si=ZDu-2XGPYD7Q8GYd" },
-        { "What Files does HueForge Save": "https://youtu.be/Hg--2FbP30Y?si=ZDu-2XGPYD7Q8GYd" },
-        { "How to Increase Detail": "https://youtu.be/Hm-9_YB_Nxc?si=qQg7jzAagEOn_HvH" },
-        { "Standard Mode made Easy": "https://youtu.be/W2qgTTzSsa4?si=O8y4tMOm4xhB1Oul" },
-        { "Recoloring Other HueForges": "https://youtu.be/dSr-73oAg_E?si=Sx7pB7OSYn-soqTn" },
-        { "Separating Colors in Color Pop": "https://youtu.be/i3pZYwzAH-Q?si=pgixQIBQWNDNWtVv" }
-    ],
-    "Beginner Videos" : [
-		{ "Slicing your first HueForge" : "https://youtu.be/3-Jkx9F7eKs?si=9JdxK5GI57Hem57R"},
-		{ "Color Match in HueForge" : "https://youtu.be/F18UDecuFX0?si=C_ILzwOsfTQH01x6"},
-		{ "Importing your Filament Library" : "https://youtu.be/0Bbfnf6qyJc"},
-        { "Using More than 4 Colors in 1 AMS" : "https://youtu.be/DeE8ycngC6I?si=ymfGSn2gDZpVkmvl"},
-        { "What Filaments Should I get?" : "https://youtu.be/kiYygVHnAZQ?si=cDuve_aNOQpJ7G-Z"},
-        { "Finding TD with the Seashell Test" : "https://youtu.be/9rpluWd9pH8?si=eQKqeJAjNf92JbOl"}
+		{ "How does the Color Core Work": "https://youtu.be/IlJaqKz9vGE?si=pwHo4e-8L9saEdc5" },
+		{ "What is TD and Why Do I Care": "https://youtu.be/z47_97qZr0k?si=0-rmuQPSPeTV4E86" },
+		{ "How to Slice a HueForge (Orca)": "https://youtu.be/Vp7JKTsfurU?si=ymhWamMmxhOWfMGF" },
+		{ "How to Make Your HueForge Thicker": "https://youtu.be/LIKOxri-LEc?si=HPYDJn8ZjUST4duy" },
+		{ "How to Add Your Filaments": "https://youtu.be/PHPadcdA-mU?si=ILfVuVwKy6-Nslkn" },
+		{ "What is Slicer View": "https://youtu.be/Hg--2FbP30Y?si=ZDu-2XGPYD7Q8GYd" },
+		{ "What Files does HueForge Save": "https://youtu.be/Hg--2FbP30Y?si=ZDu-2XGPYD7Q8GYd" },
+		{ "How to Increase Detail": "https://youtu.be/Hm-9_YB_Nxc?si=qQg7jzAagEOn_HvH" },
+		{ "Standard Mode made Easy": "https://youtu.be/W2qgTTzSsa4?si=O8y4tMOm4xhB1Oul" },
+		{ "Recoloring Other HueForges": "https://youtu.be/dSr-73oAg_E?si=Sx7pB7OSYn-soqTn" },
+		{ "Separating Colors in Color Pop": "https://youtu.be/i3pZYwzAH-Q?si=pgixQIBQWNDNWtVv" }
 	],
-    "Old UI Conceptual Videos":
-    [
+	"Beginner Videos": [
+		{ "Hueforge Made Simple": "https://youtu.be/6B3yJLb0EsU?si=_RtqswDcZ89AS-aS" },
+		{ "Starting with Color Pop": "https://youtu.be/IiEMfySWX44?si=i-TBmuyxnJW9h5Ro" },
+		{ "Ultimate Standard Mode Guide": "https://youtu.be/5a8PTWmXPMw?si=AbOXYsDwT1OkFP9C" },
+		{ "HueForge Crash Course (90 minutes)": "https://www.youtube.com/watch?v=HBrMxFtpl94&t=376s" },
+		{ "Slicing your first HueForge": "https://youtu.be/3-Jkx9F7eKs?si=9JdxK5GI57Hem57R" },
+		{ "Color Match in HueForge": "https://youtu.be/F18UDecuFX0?si=C_ILzwOsfTQH01x6" },
+		{ "Importing your Filament Library": "https://youtu.be/0Bbfnf6qyJc" },
+		{ "Using More than 4 Colors in 1 AMS": "https://youtu.be/DeE8ycngC6I?si=ymfGSn2gDZpVkmvl" },
+		{ "What Filaments Should I get?": "https://youtu.be/kiYygVHnAZQ?si=cDuve_aNOQpJ7G-Z" },
+		{ "Finding TD with the Seashell Test": "https://youtu.be/9rpluWd9pH8?si=eQKqeJAjNf92JbOl" }
+	],
+	"Old UI Conceptual Videos": [
 		{ "HueForge U: Double White Method": "https://youtu.be/ZT6t_ySCjLI" },
 		{ "HueForge U: Brightness Compensation": "https://youtu.be/65BTtdxfQag" },
 		{ "Quick QR Codes (and Logos)": "https://youtu.be/eooifupKuO4" },
 		{ "Filament Painting STLs": "https://youtu.be/ZDtAWbftOzI" },
-        { "Hybrid HueForge Prints" : "https://youtu.be/7nqbgV0Zz3s?si=ffMuUeyA3CGnx5od"}
+		{ "Hybrid HueForge Prints": "https://youtu.be/7nqbgV0Zz3s?si=ffMuUeyA3CGnx5od" }
 	],
-	"Work Along Videos - Older UI" : [
-		{ "Color Match: Red and Blue Ball": "https://youtu.be/lVvv9MbTWAc"},
-		{ "Color Match: Red, Green, and Blue Ball": "https://youtu.be/-D_ogqUKdgQ"},
-		{ "Color Match: Colorful Frog" : "https://youtu.be/Fp6hLbLsxZY"}
+	"Work Along Videos - Older UI": [
+		{ "Color Match: Red and Blue Ball": "https://youtu.be/lVvv9MbTWAc" },
+		{ "Color Match: Red, Green, and Blue Ball": "https://youtu.be/-D_ogqUKdgQ" },
+		{ "Color Match: Colorful Frog": "https://youtu.be/Fp6hLbLsxZY" }
 	],
 	"Affiliates": [
 		{ "Polymaker HueForge Packs": "https://us.polymaker.com/products/hueforge-packs?aff=443" },
 		{ "SUNLU": "https://www.sunlu.com/" },
-        { "3D-Fuel": "https://www.3dfuel.com/HUEFORGE"},
+		{ "3D-Fuel": "https://www.3dfuel.com/HUEFORGE" },
 		{ "Numakers Filament\nCoupon: HueForge10": "https://numakers.com/?ref=tq87fwjw" },
 		{ "ProtoPasta": "https://www.proto-pasta.com?aff=150" },
-		{ "Prusament" : "http://www.prusa3d.com/?_gl=1*1edaxqs*_gcl_au*MTI3ODg2NzAzMS4xNzI1OTgyMDc3*_ga*ODc2MjIxMTI4LjE3MjU5ODIwNzc.*_ga_3HK7B7RT5V*MTczMTk2MTQ3My4xNi4xLjE3MzE5NjE0OTIuNDEuMC4w#a_aid=HueForge"}
+		{ "Prusament": "http://www.prusa3d.com/?_gl=1*1edaxqs*_gcl_au*MTI3ODg2NzAzMS4xNzI1OTgyMDc3*_ga*ODc2MjIxMTI4LjE3MjU5ODIwNzc.*_ga_3HK7B7RT5V*MTczMTk2MTQ3My4xNi4xLjE3MzE5NjE0OTIuNDEuMC4w#a_aid=HueForge" }
 	]
 }
