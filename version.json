@@ -1,7 +1,7 @@
 {
 	"releaseVersion": "0.9.3",
 	"betaVersion": "",
-	"releaseNotes": "https://open.substack.com/pub/hornandrhode/p/hueforge-093-release-notes?r=27ljby",
+	"releaseNotes": "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-093-release-notes?r=27ljby'>Release Notes</a>",
 	"plugins": [
 		{
 			"name": "HugeForgePlugin",
@@ -20,7 +20,7 @@
 			"downloadUrl": "https://account.thehueforge.com"
 		},
 		{
-			"name": "ColorDrop",
+			"name": "ColorDropPlugin",
 			"version": "1.0.1",
 			"minApiVersion": 2,
 			"creator": "HueForge",
