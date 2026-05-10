@@ -1,0 +1,445 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#052d29",
+            "Name": "Army Green",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{d44fb0c2-1642-46be-bce9-7c726e57de63}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#dbd0bd",
+            "Name": "Beige 500",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{29b261fa-b168-4207-8375-70679e697a9f}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#2a242d",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{243f0939-dc45-4967-bbc5-0f93045ec21e}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#a23c34",
+            "Name": "Blood Red Light Glitter",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{98c88c36-2288-414f-8c48-f489489974df}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#004c74",
+            "Name": "Blue Ice",
+            "Owned": false,
+            "Transmissivity": 11,
+            "Type": "PLA",
+            "uuid": "{0e1f2a83-98dd-4c7c-aeee-474e15fad78b}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#201e8a",
+            "Name": "Blue Moon",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{3b56e6fb-5775-4425-83da-7cc244f0c67e}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#35608e",
+            "Name": "Blue Whale Grey",
+            "Owned": false,
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{14a38979-1199-41c1-b29e-8b82cda9c6c7}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#0251a7",
+            "Name": "Bold Blue",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{3a46944e-9dd9-40ce-b640-2978580543f1}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#db5533",
+            "Name": "Brad's Orange Glitter",
+            "Owned": false,
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{6ae0c9e6-f53a-49a1-8fe0-1d8ba56499d1}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#5d4f5e",
+            "Name": "Deep Purple",
+            "Owned": false,
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{bdaa461b-ef08-408d-8f98-4d5fce9b1b87}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#d0cdc9",
+            "Name": "Design White",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{627ec026-87dc-4712-a782-98f96aa01d5c}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#906e31",
+            "Name": "Golden Winner Glitter",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{6770bd34-d519-4f32-a26e-2d4629cf2d5e}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#365927",
+            "Name": "Green Ice",
+            "Owned": false,
+            "Transmissivity": 11.3,
+            "Type": "PLA",
+            "uuid": "{08b0242e-148f-4c89-8a36-8a11b4c27221}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#8d9223",
+            "Name": "Green Slime Glitter",
+            "Owned": false,
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{818fb853-da11-42e1-8770-9f7514079e7f}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#89908f",
+            "Name": "Gun Metal Grey",
+            "Owned": false,
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{4741b283-af73-45ae-839e-80ac88413aed}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#52ab2c",
+            "Name": "Limer Green",
+            "Owned": false,
+            "Transmissivity": 1.3,
+            "Type": "PLA",
+            "uuid": "{eef714a0-11bb-46b4-b72a-696dd98333d6}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#f56233",
+            "Name": "Mystery Orange",
+            "Owned": false,
+            "Transmissivity": 5.4,
+            "Type": "PLA",
+            "uuid": "{9b6454a0-5bcd-4b17-a7c2-03a62015a3c9}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#ffffcc",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 100,
+            "Type": "PLA",
+            "uuid": "{3efba4a1-31e6-46d0-83c0-a9b9edc128ee}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#b1da00",
+            "Name": "Neon Green",
+            "Owned": false,
+            "Transmissivity": 8.8,
+            "Type": "PLA",
+            "uuid": "{739ef784-1d38-4aa0-958c-8b75825ce9ab}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#fd636b",
+            "Name": "Neon Pink",
+            "Owned": false,
+            "Transmissivity": 3.8,
+            "Type": "PLA",
+            "uuid": "{5bb4055f-4129-416f-aece-c8659040e306}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#d4e500",
+            "Name": "Neon Yellow",
+            "Owned": false,
+            "Transmissivity": 5.9,
+            "Type": "PLA",
+            "uuid": "{0a7205e3-bddd-4301-8902-a4879b291fa6}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#6f7778",
+            "Name": "Overcast Grey Glitter",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{7dc18142-86e8-41ce-a0cf-c563f2cd20e5}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#c2403c",
+            "Name": "PS Red",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{cd29385b-7231-4eb4-ab62-fc2742a7f3ca}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#0086b3",
+            "Name": "Pure Cyan",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{6786eedf-561f-481c-a512-6775753b5514}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#eeb4d9",
+            "Name": "Pure Magenta",
+            "Owned": false,
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{9ccda1a5-4826-4f03-b825-1847cda1b5eb}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#8e4fb0",
+            "Name": "Purple Eater",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{b805f688-91ba-45bf-bd7d-141cbd131ebe}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#8c41af",
+            "Name": "Purple Ice",
+            "Owned": false,
+            "Transmissivity": 18.0,
+            "Type": "PLA",
+            "uuid": "{9d64603a-0f1a-424a-b900-1cf4c048eb28}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#e5e7e3",
+            "Name": "Quarter White",
+            "Owned": false,
+            "Transmissivity": 5.4,
+            "Type": "PLA",
+            "uuid": "{d3152e7e-04d0-4864-b689-b00a92ba9501}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#862e26",
+            "Name": "Red Ice",
+            "Owned": false,
+            "Transmissivity": 8.6,
+            "Type": "PLA",
+            "uuid": "{059bad94-ac2c-4249-9336-73b8574c8a13}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#f66a20",
+            "Name": "Safety Orange",
+            "Owned": false,
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{54bf8fa2-d121-4b59-9379-b11b00f8eb58}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#292823",
+            "Name": "Soul Black Glitter",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{8fca622b-8475-45d6-9408-7d01170fbeca}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#9b8979",
+            "Name": "Tan 64",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{1213a82a-0653-42d0-b5d6-2fdcc0573b17}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#584137",
+            "Name": "Tree Brown",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{3a9d6853-1e62-48f6-b60d-bf24eab91dd9}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#3a853c",
+            "Name": "Tree Green",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{4fd920f6-6be3-45ef-8121-99e3a26244b9}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#9fa8aa",
+            "Name": "Vanilla Bean Ice Cream",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{01a1cb57-61d3-4015-a5a1-61ca84e90091}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#efefea",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 2.9,
+            "Type": "PLA",
+            "uuid": "{e09a27c5-36dd-43ef-bed4-82107335f299}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#fdc230",
+            "Name": "Yellow Bird",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{ed9d0e09-8e74-46a9-8242-b107588bb6ac}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#221e21",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PETG",
+            "uuid": "{3fbac0df-a4ad-49fc-8fb5-b4cc4b407fb7}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#004a99",
+            "Name": "Bold Blue",
+            "Owned": false,
+            "Transmissivity": 2.9,
+            "Type": "PETG",
+            "uuid": "{43f481e4-367a-449d-8a00-ebeb2d673257}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#bbc7ce",
+            "Name": "Clear",
+            "Owned": false,
+            "Transmissivity": 100,
+            "Type": "PETG",
+            "uuid": "{32b9def9-8923-4778-a4bc-94bd32e4ec12}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#99999b",
+            "Name": "Gun Metal Grey",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PETG",
+            "uuid": "{3c55f23e-a535-4ccd-af41-d737a46a4f6e}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#f66a20",
+            "Name": "Mystery Orange",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PETG",
+            "uuid": "{ae4a4e64-1bcb-42dc-9794-0258ec7f4899}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#e4df00",
+            "Name": "Neon Yellow",
+            "Owned": false,
+            "Transmissivity": 6.2,
+            "Type": "PETG",
+            "uuid": "{c7ba71d9-14b8-4850-aacf-42d055765421}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#000000",
+            "Name": "PS Red",
+            "Owned": false,
+            "Transmissivity": 4.1,
+            "Type": "PETG",
+            "uuid": "{eee13041-9579-44eb-99c5-99cda5a1c282}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#008bbb",
+            "Name": "Pure Cyan",
+            "Owned": false,
+            "Transmissivity": 2.3,
+            "Type": "PETG",
+            "uuid": "{a19e8568-240e-4e4c-9dd4-4999d729db78}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#292823",
+            "Name": "Soul Black Glitter",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PETG",
+            "uuid": "{97c72e55-9eb4-4de3-9a89-fa71633225a8}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#217e3f",
+            "Name": "Tree Green",
+            "Owned": false,
+            "Transmissivity": 1.4,
+            "Type": "PETG",
+            "uuid": "{23ad62b1-32a0-4d18-ad92-504a24918ba2}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#ecebea",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 2.9,
+            "Type": "PETG",
+            "uuid": "{f12b698d-6abb-47e6-b277-a4d55726e88e}"
+        },
+        {
+            "Brand": "Jessie Premium",
+            "Color": "#efbc30",
+            "Name": "Yellow Bird",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PETG",
+            "uuid": "{8115f48c-842e-4b38-950b-1e1d9f7a5820}"
+        }
+    ]
+}

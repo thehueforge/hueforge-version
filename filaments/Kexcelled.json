@@ -1,0 +1,319 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Kexcelled",
+            "Color": "#f2f2eb",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PLA",
+            "uuid": "{296e40a4-c7bb-0e18-97d6-f0e70714c1e2}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{44043481-b84c-716b-7dde-6147132749bd}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#212322",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{599d9e58-5dfb-058a-8197-cc5e5b3ce43f}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#fce300",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 6.8,
+            "Type": "PLA",
+            "uuid": "{a54b357c-d431-5285-6f4e-68e908d5512b}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#f9ece4",
+            "Name": "Skin",
+            "Owned": false,
+            "Transmissivity": 4.4,
+            "Type": "PLA",
+            "uuid": "{168a714e-25ca-c2e8-4bc7-ac4a687a4a9c}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#774730",
+            "Name": "Brown",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{99943ae1-e781-4269-c9e9-314ad28f5ed7}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ff6a13",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{f94117e7-ae87-f5ef-9462-cc36cda3e739}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ff5869",
+            "Name": "Pink",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{2d81d7b8-c812-f321-f84e-8a0451c171b2}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#c1101d",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4.5,
+            "Type": "PLA",
+            "uuid": "{a0176de6-edc1-93d7-18e1-c74a4d9b9498}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ad3da0",
+            "Name": "Purple",
+            "Owned": false,
+            "Transmissivity": 4.5,
+            "Type": "PLA",
+            "uuid": "{23d8700e-208a-e659-7c75-f9e9b921001f}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#a3a3a0",
+            "Name": "Gray",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{716cbc7c-c90a-6cc8-32da-da60f1d12ec9}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#89e5bf",
+            "Name": "Cyan",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{b4cf3447-2b55-4484-c156-2d95517e9d46}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#009f4d",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{2e67a4e3-f956-7821-ce45-d1a34218a577}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#37b6e2",
+            "Name": "Sky Blue",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{b0e4e85a-8c7d-6f75-5ae8-a49230793ff2}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#0086d6",
+            "Name": "Lake Blue",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{d8d543b3-5181-025c-56a7-8256f60dc310}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#00358e",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{41ffd68d-2216-52b4-1b66-8fc79d787b06}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#84754e",
+            "Name": "Bronze",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{1f1c14ab-6808-a6fe-d392-37bfb23e889e}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "",
+            "Name": "Gold",
+            "Owned": false,
+            "Transmissivity": 1.6,
+            "Type": "PLA",
+            "uuid": "{b5b0269c-c0f5-9eb5-86f5-b248576cddb0}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#afafaf",
+            "Name": "Silver",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{963a684a-cfa2-d4e6-318c-7e0e3ceb7658}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#0097a9",
+            "Name": "Peacock Blue",
+            "Owned": false,
+            "Transmissivity": 3.4,
+            "Type": "PLA",
+            "uuid": "{94de60b6-abc6-318a-8a1a-8d25f2f7668a}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#c5e86c",
+            "Name": "Peak Green",
+            "Owned": false,
+            "Transmissivity": 3.4,
+            "Type": "PLA",
+            "uuid": "{fcee51f2-2837-a541-ab84-e5314cd3b35b}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#67777f",
+            "Name": "Gray Blue",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{b55b82fe-5785-90f2-ef65-6ee31a9f9653}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#0e4f44",
+            "Name": "Dark Green",
+            "Owned": false,
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{de32b8fa-32e4-f33e-974e-41defcbe1245}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#422825",
+            "Name": "Chocolate",
+            "Owned": false,
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{35569524-580c-d6c4-32f3-eac78ce0f258}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ffb81c",
+            "Name": "Dark Yellow",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{9caa4eec-0754-80ec-aff2-d3004b6e42c4}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#71d3ce",
+            "Name": "Pinkish Blue",
+            "Owned": false,
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{b9511da6-b2f5-52f3-15af-02cb5132fc91}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#04af76",
+            "Name": "Bluish Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{9545391e-d223-5fdb-6ff1-8aa113608c7c}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#7dbf1f",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{13236fbe-36c7-1bcc-5035-109f1f3e17e9}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ff7900",
+            "Name": "Light Orange",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{fe815188-de94-5069-e447-288c83bd6e18}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#635faf",
+            "Name": "Light Purple",
+            "Owned": false,
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{3a13ba89-a831-80ad-a469-883dbf292aa9}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#cc7e37",
+            "Name": "Light Brown",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{b02841e5-9c58-f2ff-6b63-959f30e38b5d}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#fce300",
+            "Name": "Fluorescent Yellow",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{3e1f1f22-4884-1972-6b20-410cb6fac9a9}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ef426f",
+            "Name": "Fluorescent Red",
+            "Owned": false,
+            "Transmissivity": 4.5,
+            "Type": "PLA",
+            "uuid": "{62bde68c-a190-4ea1-5482-0fdb79a2fa48}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#44d62c",
+            "Name": "Fluorescent Green",
+            "Owned": false,
+            "Transmissivity": 4.6,
+            "Type": "PLA",
+            "uuid": "{6a00a03e-31f1-c141-56f8-cc3aa88fc7dc}"
+        },
+        {
+            "Brand": "Kexcelled",
+            "Color": "#ff7900",
+            "Name": "Fluorescent Orange",
+            "Owned": false,
+            "Transmissivity": 6.5,
+            "Type": "PLA",
+            "uuid": "{39684879-79f0-68bd-4d64-f8b261e3aef9}"
+        }
+    ]
+}

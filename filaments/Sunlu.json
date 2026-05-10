@@ -1,0 +1,337 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Sunlu",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PLA+",
+            "uuid": "{01030000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{40e7e873-14ce-45b9-9201-62f0a81e4007}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#0041cc",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{01070000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#0000ff",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PETG",
+            "uuid": "{6ef9ad80-bad0-49a7-92ba-8dcd5637c692}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#006fd1",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{b34d5392-24b7-427d-8f5f-7d1d63d16d5e}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#0f52ba",
+            "Name": "Blue Grey",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{fdf8d1b2-1480-4729-9825-a5f55a58b5ec}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#a09268",
+            "Name": "Burly Wood",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA+",
+            "uuid": "{397d2b69-944d-4950-916d-97f91992ecdb}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#977133",
+            "Name": "Coffee",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{01160000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#9c0087",
+            "Name": "Fuschia",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01200000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#7b713a",
+            "Name": "Gold",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{c2ed9e04-2c40-481f-9ce1-568435bbde52}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#008684",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{01250000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#00f52c",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{01260000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#00f52c",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PLA+",
+            "uuid": "{0fdd570a-4ea6-4fb6-aa1b-21dbd9761c82}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#35c376",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{39b0ca29-90b7-463e-bb75-4d3c9376b01d}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#00ff00",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PETG",
+            "uuid": "{8a9dc63a-8dd1-4fd9-9082-824174b4633f}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#3cdac8",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PLA",
+            "uuid": "{9e14d746-9226-45d5-8d79-9e0e75733516}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#565d65",
+            "Name": "Grey",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA+",
+            "uuid": "{01040000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#777b78",
+            "Name": "Grey",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{ea23f51a-9e11-45b0-935e-7be2a6dcebe8}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#9b8b39",
+            "Name": "Light Gold",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{4a177969-32b6-4375-824f-a63b810725d2}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ff8000",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01110000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffd500",
+            "Name": "Pure Yellow",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01130000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#856fdc",
+            "Name": "Purple",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{01190000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#d22332",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA+",
+            "uuid": "{01100000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#ee465c",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{80b77bcf-bb98-4ffa-b856-56cae28449c6}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ff0000",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 7.5,
+            "Type": "PETG",
+            "uuid": "{b35a12fd-561e-45bb-9ddd-2012870d11cd}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#89939c",
+            "Name": "Silver",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA+",
+            "uuid": "{01050000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffcaa6",
+            "Name": "Skin",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01140000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#01b3ff",
+            "Name": "Sky Blue",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{39381ed5-bebd-4b15-94f1-9b8eaa27a841}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ff7713",
+            "Name": "Sunny Orange",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA+",
+            "uuid": "{a1eab3fd-9cd0-40ef-b865-59015ed5b624}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{541fe59d-02ff-40d1-8040-5e4548010737}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PETG",
+            "uuid": "{89cb8a00-1a9d-4621-bc3b-a7f1312e6e19}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{4097523d-486c-4723-ae88-e18dad0808e9}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01020000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#d5ff01",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PLA+",
+            "uuid": "{47672531-ef7d-4b16-bea2-45fa32b6a84d}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#fd9886",
+            "Name": "pink",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{afe26e72-c7b4-49a9-9e71-bf9cdeb15ffc}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#fd3e3e",
+            "Name": "red",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{0223d85d-7c28-42b3-be79-033137908b05}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#f8ef99",
+            "Name": "yellow",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PLA",
+            "uuid": "{92a27b6e-bdb5-4218-823a-f4e3d7aef06e}"
+        }
+    ]
+}

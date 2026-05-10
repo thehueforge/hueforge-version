@@ -1,0 +1,48 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Creality Hyper",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{9ecce4fc-71ce-4404-ab61-88395656710f}"
+        },
+        {
+            "Brand": "Creality Hyper",
+            "Color": "#319fff",
+            "Name": "Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{247f9737-139f-4ac4-a7d2-cbc5f9f7af87}"
+        },
+        {
+            "Brand": "Creality Hyper",
+            "Color": "#fb0a09",
+            "Name": "Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.7,
+            "Type": "PLA",
+            "uuid": "{032260b7-88c2-4d0d-ade7-b8f13b2ddfbd}"
+        },
+        {
+            "Brand": "Creality Hyper",
+            "Color": "#fefded",
+            "Name": "White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{a534a138-7112-43ee-ae2f-8f86fff53e7a}"
+        }
+    ]
+}

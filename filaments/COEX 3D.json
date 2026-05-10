@@ -1,0 +1,502 @@
+{
+    "Filaments": [
+        {
+            "Brand": "COEX 3D",
+            "Color": "#3ad8c7",
+            "Name": "Aqua Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{11da74b0-73b2-4fc7-b1da-799a36b615bc}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#3e472e",
+            "Name": "Army Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{460fcc73-4c18-4770-9ba3-f4d717f78fec}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{2e251998-42a6-4e45-8043-f6d0696cb020}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#1f2a44",
+            "Name": "Black Chrome",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{8bc80bd2-dbb8-49d3-9a40-2c8074d38f4a}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#8d673c",
+            "Name": "Bone Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{d3a48562-431a-4bcd-a4bc-0b309c8cc57f}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#402000",
+            "Name": "Chocolate Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{774d5fac-7378-4de3-bb4f-4917c3f3f6e2}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#00198d",
+            "Name": "Cobalt Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA",
+            "uuid": "{85e061c7-222a-45f5-8bb3-6c277047826d}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#cda243",
+            "Name": "Construction Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{1f2aff8a-fc36-4bee-a97e-6e295454e0cf}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#eabeb0",
+            "Name": "Copper",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{c8e74cd0-0102-40c9-9bd6-b359e55285b7}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#c5a977",
+            "Name": "Desert Tan",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{5b03fb2d-b867-4865-a0cf-0e3e312b6e05}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#5bc2e7",
+            "Name": "Electric Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.3,
+            "Type": "PLA",
+            "uuid": "{80e6ee66-0593-4985-86c3-a291d87bbb2a}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#eef1f0",
+            "Name": "Fog Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA",
+            "uuid": "{728d5813-3bbb-40fb-9b7e-92a1b4e6f4d6}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#fbf9f6",
+            "Name": "Frost White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{f8e27330-9be8-4179-be58-c1e6da3482d2}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#041c2c",
+            "Name": "Galaxy Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{8b425b59-5f14-429c-a7b1-4b789e1e833a}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#b7d52f",
+            "Name": "Gamer Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{cb8e3fe5-d3f5-4b43-add4-f23c7f88d005}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#41b6e6",
+            "Name": "Glacier Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 100,
+            "Type": "PLA",
+            "uuid": "{27e06e8f-127f-474d-bc4a-585cae6331fd}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#f8fff6",
+            "Name": "Glow Green",
+            "Owned": false,
+            "Secondary_Color": "#0000ff",
+            "Secondary_Strength": 0.23999999463558197,
+            "Secondary_Type": 2,
+            "Tags": [
+            ],
+            "Transmissivity": 100,
+            "Type": "PLA",
+            "uuid": "{7c1a0819-96fe-4706-8a43-87270288e805}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#cba052",
+            "Name": "Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{adc7c9a3-6f61-4667-827e-d4499c7923cc}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#20763e",
+            "Name": "Green Bay Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{8f51930b-1484-4431-ac89-ccb492980270}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#fdcc2e",
+            "Name": "Green Bay Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.9,
+            "Type": "PLA",
+            "uuid": "{33043373-1c92-419b-9006-20b57deb6502}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#6e7372",
+            "Name": "Gunmetal Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{20f14ab4-785c-4850-a16c-dfd9e881585c}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#79676e",
+            "Name": "Iced Amethyst",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{956b2813-9d39-4861-bf81-7a2e883cd94f}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#cf4519",
+            "Name": "Inferno Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{7f47ea07-4e0d-4ccd-989e-0eab639f7fa5}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#365b52",
+            "Name": "Legion Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{3445b67d-1eeb-4512-b2b5-2bc2c6385c77}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#535db2",
+            "Name": "Lilac Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{c1eafd80-4d48-4cdb-9b46-abda223050de}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#e0457b",
+            "Name": "Lipstick Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.9,
+            "Type": "PLA",
+            "uuid": "{1da5b68f-41ed-4d72-be86-2eab6349fc8e}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#e56db1",
+            "Name": "Magenta Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{a56062c5-1457-4ba9-bd2f-f7714997bbfc}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#72373c",
+            "Name": "Maroon Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{cce18306-8737-47c5-bb61-c495487c0dab}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#717675",
+            "Name": "Metallic Gunmetal Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 6.2,
+            "Type": "PLA",
+            "uuid": "{fd8a9b8a-2a07-4be5-945f-07d55b1d36a4}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#b5b7b8",
+            "Name": "Metallic Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{d03ba2ca-b6bf-434f-8da2-499b3b3639cb}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#f0f0f0",
+            "Name": "Natural",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 100,
+            "Type": "PLA",
+            "uuid": "{0a7a544b-4dfc-4b3f-a8b7-2a5f735256cd}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#13294b",
+            "Name": "Navy Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{213dc08e-57aa-477d-83b4-6c1d08882d45}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#44d62c",
+            "Name": "Neon Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.7,
+            "Type": "PLA",
+            "uuid": "{f415d803-9426-4709-9a7b-96424d610519}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#008bc6",
+            "Name": "Ocean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{39ed0f81-043d-4560-816c-bee08c9d35f6}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#7d7435",
+            "Name": "Olive Drab Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{b6be30a2-568f-46d2-87f7-9b3a1e02673c}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#ce9a89",
+            "Name": "Peach Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{ba302f75-e822-4530-8194-17335ee9a7f0}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#51284f",
+            "Name": "Plum Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{a49a1c18-924c-4b21-939a-5fd9a5a911ef}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#e6791a",
+            "Name": "Pumpkin Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{f2bec327-3b33-4e7a-96f2-be07f59e7e20}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#de4b4b",
+            "Name": "Salsa RED",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{6351bf48-7c81-4248-a99c-bb5b1bcb878a}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#9d2235",
+            "Name": "Scarlet Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.3,
+            "Type": "PLA",
+            "uuid": "{e5535dce-b644-4ac1-a80e-efa8b0f4a38e}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#a2aaad",
+            "Name": "Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{dcec37e5-b1ef-49e1-986d-5b9fce01c2ee}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#cfd5d3",
+            "Name": "Stone Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{375eee77-a2cd-453b-9160-5f93034f7f78}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#fac200",
+            "Name": "Taxicab Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.1,
+            "Type": "PLA",
+            "uuid": "{7943d567-e0ad-4469-a5fb-f2e003dd7b7a}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#610003",
+            "Name": "Translucent Blood Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 11.1,
+            "Type": "PLA",
+            "uuid": "{7e264787-1cba-41b6-bd19-269319ac9987}"
+        },
+        {
+            "Brand": "COEX 3D",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.4,
+            "Type": "PLA",
+            "uuid": "{96a56af0-7ada-4e96-80c0-663a4284d216}"
+        }
+    ]
+}

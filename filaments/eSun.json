@@ -1,0 +1,85 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Esun",
+            "Color": "#ddd7c7",
+            "Name": "Bone White",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01170000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#55351c",
+            "Name": "Brown",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA+",
+            "uuid": "{01150000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#11204b",
+            "Name": "Dark Blue",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA+",
+            "uuid": "{01060000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#f20666",
+            "Name": "Magenta",
+            "Owned": false,
+            "Transmissivity": 4.5,
+            "Type": "PLA+",
+            "uuid": "{01210000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#455340",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA+",
+            "uuid": "{01230000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#ff7713",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01120000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#005133",
+            "Name": "Pine Green",
+            "Owned": false,
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{01240000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#ff749e",
+            "Name": "Pink",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01220000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#0cc1f5",
+            "Name": "Space Blue",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA+",
+            "uuid": "{01080000-0000-0000-0000-000000000000}"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Chrominal",
+            "Color": "#62483e",
+            "Name": "Chestnut",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{1c49528c-4ed5-4fb6-ac05-8d2e4a801a3a}"
+        },
+        {
+            "Brand": "Chrominal",
+            "Color": "#0e2070",
+            "Name": "Deep Sea Blue",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{02b36e2f-ae0c-45d1-b5c0-b623b188688a}"
+        },
+        {
+            "Brand": "Chrominal",
+            "Color": "#434a4f",
+            "Name": "Penumbra Gray",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{c8d9a53a-f04a-4e59-9f00-e7e2fdec1aff}"
+        },
+        {
+            "Brand": "Chrominal",
+            "Color": "#1f4629",
+            "Name": "Serpent Green",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{56c8f78c-2aae-45c3-b1be-d26ef5410755}"
+        },
+        {
+            "Brand": "Chrominal",
+            "Color": "#434a4f",
+            "Name": "Shadow Gray",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{d08c0095-9a7c-4f03-9c37-e78fb0b8a0ed}"
+        }
+    ]
+}

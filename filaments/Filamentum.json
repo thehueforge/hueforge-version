@@ -1,0 +1,175 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Fillamentum",
+            "Color": "#009d00",
+            "Name": "Aloe Green",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PETG",
+            "uuid": "{138eaab7-c034-48d6-b897-523c8606e434}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#699fdf",
+            "Name": "Bunny Blue Transp",
+            "Owned": false,
+            "Transmissivity": 25,
+            "Type": "PETG",
+            "uuid": "{1067ce9e-1320-49e3-a965-228a4d2085b3}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#ff4e06",
+            "Name": "Calendula Orange",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PETG",
+            "uuid": "{99b7fc10-2388-48fe-b2bf-2384f10988c2}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#9a4a28",
+            "Name": "Copper With Me",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PETG",
+            "uuid": "{9a272061-25a2-4025-af7f-5ffeb29c22d2}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#002772",
+            "Name": "Deep Sea Transp",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PETG",
+            "uuid": "{2d5b4d82-9941-4dd3-a866-c0e99b3dc0f3}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#00afed",
+            "Name": "Forget-me-not blue",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PETG",
+            "uuid": "{cb789165-ed72-4a02-94b9-29c0ca120db2}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#95ce3a",
+            "Name": "Fresh Poison Transp",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PETG",
+            "uuid": "{b35a575d-2d3b-4dda-92dc-55ba79191185}"
+        },
+        {
+            "Brand": "Fillamentum ",
+            "Color": "#c1c0b7",
+            "Name": "Gold Cloud",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PETG",
+            "uuid": "{2e3ea2ac-0818-492a-bdea-6bd498abacbf}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#771221",
+            "Name": "Greedy Dragon",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PETG",
+            "uuid": "{b55e93ce-371f-439d-a111-bcdcf21c4e28}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#00c1d2",
+            "Name": "Iced Green Transp",
+            "Owned": false,
+            "Transmissivity": 32,
+            "Type": "PETG",
+            "uuid": "{55583492-a9a3-44de-a6f5-818a11828d55}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#aab8bd",
+            "Name": "Koala Grey",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PETG",
+            "uuid": "{94a2161a-8c92-424c-823e-e018ed364eb9}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#ffb300",
+            "Name": "Melon Yellow",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PETG",
+            "uuid": "{36a7c890-87ba-4056-9a93-c8df743cd780}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#ff7713",
+            "Name": "Neon Orange Transp",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "CPE",
+            "uuid": "{f275c011-1f0a-4eac-ac5a-215039681f14}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#ff3c72",
+            "Name": "Neon Pink Transp",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PETG",
+            "uuid": "{75b41190-1185-4bc6-8e04-188de8880369}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#973c77",
+            "Name": "Pink Lollipop Transp",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PETG",
+            "uuid": "{160fd302-cd90-4d15-94d3-d1b4368507bd}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#00798e",
+            "Name": "Sea Wave",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PETG",
+            "uuid": "{ec603764-3cd0-4d8a-8630-1336e5c3a871}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#51595b",
+            "Name": "Vertigo Grey",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PETG",
+            "uuid": "{55a1535d-f476-4815-9e77-a06a421a0ecf}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "CPE",
+            "uuid": "{0f3d160b-80e6-4448-8cea-93bd1200afea}"
+        },
+        {
+            "Brand": "Fillamentum",
+            "Color": "#012034",
+            "Name": "Wizards Voodoo",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PETG",
+            "uuid": "{2d5b0529-614d-4404-999b-5dac645ff665}"
+        }
+    ]
+}

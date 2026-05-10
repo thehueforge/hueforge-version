@@ -1,0 +1,339 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Panchroma",
+            "Color": "#ffffab",
+            "Name": "Neon Yellow",
+            "Owned": false,
+            "Transmissivity": 7.4,
+            "Type": "PLA",
+            "uuid": "{eeae0708-2814-4194-abb0-15e9df10d9ef}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#08abfb",
+            "Name": "Translucent Cyan",
+            "Owned": false,
+            "Transmissivity": 5.3,
+            "Type": "PLA",
+            "uuid": "{eea1e6db-40ef-475f-b330-4e6a5a1a2fb1}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#9199a4",
+            "Name": "Translucent Grey",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{6f846377-c9af-4071-9ba6-29e04a9e4185}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#e8e6d0",
+            "Name": "Translucent Natural",
+            "Owned": false,
+            "Transmissivity": 35,
+            "Type": "PLA",
+            "uuid": "{51dcacce-2129-439c-95e4-6d06f82ef24c}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#f6ff4f",
+            "Name": "Translucent Yellow",
+            "Owned": false,
+            "Transmissivity": 9.2,
+            "Type": "PLA",
+            "uuid": "{5b7bb037-faaf-4b9f-affe-188a3a174925}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#5fbcdd",
+            "Name": "Aqua Blue",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.3,
+            "Type": "COPE",
+            "uuid": "{d96a1880-9688-4e1d-b3b7-835cd82b9c90}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#dabaa5",
+            "Name": "Beige",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 1.5,
+            "Type": "COPE",
+            "uuid": "{8f313920-e281-4925-a352-3d93ce5a6d35}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#080a0d",
+            "Name": "Black",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.3,
+            "Type": "COPE",
+            "uuid": "{30f19296-f210-418b-9880-9a4e1110de15}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#003776",
+            "Name": "Blue",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.7,
+            "Type": "COPE",
+            "uuid": "{71401359-2851-43af-b17e-f819c976fd15}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#55331a",
+            "Name": "Brown",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.1,
+            "Type": "COPE",
+            "uuid": "{0b954d0a-b171-425e-b4c5-793e5bbf41b8}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#d9dfe5",
+            "Name": "Cold White",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 1.8,
+            "Type": "COPE",
+            "uuid": "{00450518-8433-497c-af4e-66dc4d864e88}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#eed1a9",
+            "Name": "Cream",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 2.8,
+            "Type": "COPE",
+            "uuid": "{511af433-82ba-44d7-83c3-e6a4c7e414ca}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#485259",
+            "Name": "Dark Grey",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.3,
+            "Type": "COPE",
+            "uuid": "{6ebde553-2ba1-4478-b7ad-86a4490527ca}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#06924d",
+            "Name": "Green",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 1.6,
+            "Type": "COPE",
+            "uuid": "{042d746f-e9f2-4a64-bcb3-774865bc5a7c}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#8c9099",
+            "Name": "Grey",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.2,
+            "Type": "COPE",
+            "uuid": "{2502fce5-5777-489f-890e-73ea9b74cc04}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#4e742d",
+            "Name": "Jungle Green",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.4,
+            "Type": "COPE",
+            "uuid": "{01f36004-be60-48f5-83c9-31784fbff751}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#eed231",
+            "Name": "Lemon Yellow",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 5.6,
+            "Type": "COPE",
+            "uuid": "{8dfc1a16-0e72-4863-93db-9df28a7728d4}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#d7d602",
+            "Name": "Lime Green",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 3.1,
+            "Type": "COPE",
+            "uuid": "{13335523-e2fe-48e7-9587-7acb2e7bae07}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#f24574",
+            "Name": "Magenta",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 3.5,
+            "Type": "COPE",
+            "uuid": "{4d6eebbb-b7b0-48ab-b48e-0e667f93131f}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#948902",
+            "Name": "Olive Drab Green",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.5,
+            "Type": "COPE",
+            "uuid": "{0f5deb56-0616-4c4c-b35f-29e15d8a9966}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#938903",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.4,
+            "Type": "COPE",
+            "uuid": "{02c685e7-d4ea-4c5a-aea7-5fa42c50aa05}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#f67405",
+            "Name": "Orange",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 4.2,
+            "Type": "COPE",
+            "uuid": "{5fc4b0ea-0590-4d0f-80da-d537db3ca0e1}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#f1a1af",
+            "Name": "Pink",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 3,
+            "Type": "COPE",
+            "uuid": "{3918b6c4-5e96-4255-9b11-454a8028e636}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#4cc0c7",
+            "Name": "Polymaker Teal",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 1.3,
+            "Type": "COPE",
+            "uuid": "{085630ff-5545-4af1-8ba9-a4ccb9e57990}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#6c47b2",
+            "Name": "Purple",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.9,
+            "Type": "COPE",
+            "uuid": "{1ef6ab5c-274d-40ec-b624-faf55f4ea209}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#e72f1d",
+            "Name": "Red",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 2.8,
+            "Type": "COPE",
+            "uuid": "{dc096719-402e-4f90-8121-d697e11f309e}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#616469",
+            "Name": "Steel Grey",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.8,
+            "Type": "COPE",
+            "uuid": "{6db2a17f-b0f2-452c-afc5-824ded57ee87}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#477ba2",
+            "Name": "Stone Blue",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.2,
+            "Type": "COPE",
+            "uuid": "{3a2420ee-fd56-439c-9a70-cab81f48502b}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#a79e82",
+            "Name": "Tan",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.1,
+            "Type": "COPE",
+            "uuid": "{000b5bbd-2a70-45aa-a79e-94ab5c825d62}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#9199a4",
+            "Name": "Translucent Grey",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 10,
+            "Type": "PLA",
+            "uuid": "{e8e1d39b-0303-4054-b7e9-575bda8e289b}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#e2dedb",
+            "Name": "White",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{cfedc8a2-eca0-4921-abc5-4986fb64cd36}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#e2dedb",
+            "Name": "White",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 2.1,
+            "Type": "COPE",
+            "uuid": "{03d063ee-807d-4042-bf37-018620e6a0a8}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#d60212",
+            "Name": "Wine Red",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 2.1,
+            "Type": "COPE",
+            "uuid": "{1ddf8a1f-3412-4567-8f11-d471b56d7c35}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#f3b400",
+            "Name": "Yellow",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 3.4,
+            "Type": "COPE",
+            "uuid": "{aed035ce-26fa-4b66-86ba-7896f37205f3}"
+        }
+    ]
+}

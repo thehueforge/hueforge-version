@@ -1,0 +1,301 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Protopasta",
+            "Color": "#0e0e0e",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{02867c8c-353a-6787-b5bc-c33ccc09499f}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#fafafa",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{2f23dd38-02e0-1a52-3353-e22c571c34f2}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#751825",
+            "Name": "Blood of My Enemies",
+            "Owned": false,
+            "Transmissivity": 11,
+            "Type": "PLA",
+            "uuid": "{21df3731-492a-cf19-47a1-c4827cacd455}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#6f4223",
+            "Name": "Bottle Brown",
+            "Owned": false,
+            "Transmissivity": 15,
+            "Type": "PLA",
+            "uuid": "{21cd47e0-ba1d-a5a8-1a90-9b9c18390e7a}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#4c4887",
+            "Name": "Nebula Multicolor",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PLA",
+            "uuid": "{36958104-3557-72ab-1cc8-975242ce01a0}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#282828",
+            "Name": "Wonder Black",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{ada9dec6-8452-6a97-ad92-df72a79fa598}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#e7c88a",
+            "Name": "Gold Dust Glitter",
+            "Owned": false,
+            "Transmissivity": 17,
+            "Type": "PLA",
+            "uuid": "{c3683b3f-6bfd-4b4f-5963-cf61096f9e71}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#f06188",
+            "Name": "Scarlet Symphany",
+            "Owned": false,
+            "Transmissivity": 13,
+            "Type": "PLA",
+            "uuid": "{156bbb19-2205-d19f-1ced-9d519270bd38}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#007e43",
+            "Name": "Soda Green",
+            "Owned": false,
+            "Transmissivity": 15.5,
+            "Type": "PLA",
+            "uuid": "{48a20964-02f1-21cd-f921-bf0441e4d92b}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#08877c",
+            "Name": "Forest Fantasy Green",
+            "Owned": false,
+            "Transmissivity": 18,
+            "Type": "PLA",
+            "uuid": "{71f8178c-f45d-f354-316e-47675fd517c4}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#10518d",
+            "Name": "Blue Wonder Glitter",
+            "Owned": false,
+            "Transmissivity": 9,
+            "Type": "PLA",
+            "uuid": "{5263aa17-cc62-01f4-fe38-33d472cadac3}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#969696",
+            "Name": "Silver Smoke Grey",
+            "Owned": false,
+            "Transmissivity": 20,
+            "Type": "PLA",
+            "uuid": "{ff2f9864-3964-5f63-70ae-e830294a98ea}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#3f2d48",
+            "Name": "Bobbi's Purple Iris",
+            "Owned": false,
+            "Transmissivity": 17,
+            "Type": "PLA",
+            "uuid": "{78b5dca4-2fc9-841a-6933-6fd3d5f6258b}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#fdc832",
+            "Name": "Partly Sunny Yellow",
+            "Owned": false,
+            "Transmissivity": 11.6,
+            "Type": "PLA",
+            "uuid": "{59f09031-f0e5-453a-f7e1-93a98e889fd2}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#003e9a",
+            "Name": "Cobalt Blue",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{783e0444-9e62-8228-87b4-352a037dcd0e}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#e5ddd6",
+            "Name": "Moonstruck White Satin",
+            "Owned": false,
+            "Transmissivity": 10,
+            "Type": "PLA",
+            "uuid": "{a3245042-4767-83bb-058c-42f5df824df4}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#8b8989",
+            "Name": "Spittin' Seeds Gray",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PLA",
+            "uuid": "{557a8ed4-aae0-e009-3e59-1ddabf4064c7}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#ff8025",
+            "Name": "Out of Darts Orange",
+            "Owned": false,
+            "Transmissivity": 10.5,
+            "Type": "PLA",
+            "uuid": "{a4d23259-1d96-7489-c1dd-98b48ca1f14f}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#75aebd",
+            "Name": "Stratocumulus Mulitcolor",
+            "Owned": false,
+            "Transmissivity": 13,
+            "Type": "PLA",
+            "uuid": "{31a17b6a-b0f9-f49b-cb11-cc00080dd77b}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#006671",
+            "Name": "Mermaid's Tale Metallic Teal",
+            "Owned": false,
+            "Transmissivity": 4.5,
+            "Type": "PLA",
+            "uuid": "{fb4b71e6-ccaf-036b-4b61-511dacb5a4f3}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#ebebeb",
+            "Name": "Opaque White",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{e88c7291-6667-c802-25c0-a91b7809bb1e}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#c4b504",
+            "Name": "For The Lulz",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{3db45ead-bff4-6939-d4b7-a087b4341aa2}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#a4b1b4",
+            "Name": "Second to None Sliver",
+            "Owned": false,
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{a2022155-c810-029e-6ed6-22d5d68ae042}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#004835",
+            "Name": "Cloverleaf Metallic Green",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{2d661194-69bd-766f-fda4-0564281ee840}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#b3d204",
+            "Name": "Florescent Yellow",
+            "Owned": false,
+            "Transmissivity": 17,
+            "Type": "PLA",
+            "uuid": "{0ceabd26-9b8a-aea3-70a2-b50b774893d7}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#442619",
+            "Name": "Double Espresso Metallic Brown",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{986ee658-a135-3dcf-d31e-b968a55ace1a}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#7c8a95",
+            "Name": "Good Old Gray",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{8e3b1ead-a519-dee9-4970-8303bd33a8a5}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#eaf1f1",
+            "Name": "Unicorn Tears White Glitter",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PLA",
+            "uuid": "{7e88b816-0a4e-1140-7139-fe449cccdc9b}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#bf9b30",
+            "Name": "Good as Gold",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{dd4d005f-fc2f-b57e-fc12-16b8a261edf6}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#fe7ca6",
+            "Name": "Cupid's Crush Metallic Pink",
+            "Owned": false,
+            "Transmissivity": 20,
+            "Type": "PLA",
+            "uuid": "{148c5523-0348-0df1-c0b0-b5564a05fe83}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#002376",
+            "Name": "Opaque Blue",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{7b9c67f2-f4ad-9635-d1bd-c181113798ab}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#737073",
+            "Name": "Dusty Smoke",
+            "Owned": false,
+            "Transmissivity": 20,
+            "Type": "PLA",
+            "uuid": "{8c1435e9-d87f-1189-ad23-c2a41dfc3c07}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#c7c9c8",
+            "Name": "Glitter Flake Stardust",
+            "Owned": false,
+            "Transmissivity": 17,
+            "Type": "PLA",
+            "uuid": "{62bd0984-d513-8674-d965-66fa5c2f6798}"
+        }
+    ]
+}

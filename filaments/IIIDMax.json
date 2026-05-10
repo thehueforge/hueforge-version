@@ -1,0 +1,355 @@
+{
+    "Filaments": [
+        {
+            "Brand": "IIID Max",
+            "Color": "#000074",
+            "Name": "Navy Blue",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PETG",
+            "uuid": "{bc8da962-1201-449b-b592-cf032ddceba0}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#60b04e",
+            "Name": "Apple Green",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{d564f85b-853a-448f-a99a-455f5e4111b5}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#54563f",
+            "Name": "Army Green",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{5b4c6ef0-710f-4113-94e0-c1a9134557d8}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#c3dee5",
+            "Name": "Baby Blue",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{78ba65b1-9d59-482d-984d-4e1204281551}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA+",
+            "uuid": "{b1439fe8-0d99-4e3c-a41e-7de62f937e8f}"
+        },
+        {
+            "Brand": "IIID MAX",
+            "Color": "#2974ff",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PETG",
+            "uuid": "{31f100d7-70e2-4594-a25e-82890e612846}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#005ba9",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 2.8,
+            "Type": "PLA+",
+            "uuid": "{38d8b0cf-d8bf-432a-a185-91242a079032}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#61392a",
+            "Name": "Brown",
+            "Owned": false,
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{a2a6e71b-3069-44d1-812e-bc677267ffbb}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#b96023",
+            "Name": "Burnt Orange",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{aab6f373-d27d-4464-85bd-da3d92fc15c8}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#a92a30",
+            "Name": "Candy Red",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{860c35d4-e623-4306-8843-08fc8d4a48fa}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#cbcdcd",
+            "Name": "Clear",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{167a9e91-c24c-4169-bc9e-66449ec434f7}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#7d5246",
+            "Name": "Copper",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{82d8c712-89b2-4d78-aa78-13a22074b62c}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#906c3f",
+            "Name": "Coyote Brown",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{ea4ffd01-e24a-4e2d-9f86-e82a148e7735}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#00a065",
+            "Name": "Fluorescent Green",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA+",
+            "uuid": "{d404a040-6f23-4e75-9075-3cadd42f2720}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#ce712a",
+            "Name": "Fluorescent Orange",
+            "Owned": false,
+            "Transmissivity": 9,
+            "Type": "PLA+",
+            "uuid": "{a225c496-cbcb-4ce8-a201-1a6c628b65a2}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#a6da6d",
+            "Name": "Fluorescent Yellow",
+            "Owned": false,
+            "Transmissivity": 8.5,
+            "Type": "PLA+",
+            "uuid": "{2f4252f7-26a1-4d63-ae49-1646c94975c9}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#ad578b",
+            "Name": "Fuchsia",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA+",
+            "uuid": "{3816d105-ea27-4e0c-8933-92895acab9b9}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#a08c59",
+            "Name": "Gold",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA+",
+            "uuid": "{979ffa25-9402-4144-b68f-9160e3a4133b}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#07592c",
+            "Name": "Green Forest ",
+            "Owned": false,
+            "Transmissivity": 1.8,
+            "Type": "PLA+",
+            "uuid": "{260f01df-a474-470f-9550-b2f1a587a3e2}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#bdc846",
+            "Name": "Key Lime",
+            "Owned": false,
+            "Transmissivity": 7.2,
+            "Type": "PLA+",
+            "uuid": "{0653518f-4bf4-43ba-82df-9111573626c5}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#229bd5",
+            "Name": "Light Blue",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{e6065c69-1cc2-422f-a942-2fd02236be9d}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#dc9d9f",
+            "Name": "Light Pink",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{9b482076-6a2d-4345-a84b-7221ee6aba07}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#734784",
+            "Name": "Mystic Purple",
+            "Owned": false,
+            "Transmissivity": 2.8,
+            "Type": "PLA+",
+            "uuid": "{b7343e78-ee19-4ae0-a77d-cb850af13778}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#002043",
+            "Name": "Navy Blue",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{a505f176-ced8-4054-a660-38633bf9ecf7}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#000074",
+            "Name": "Navy Blue",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PETG",
+            "uuid": "{bc8da962-1201-449b-b592-cf032ddceba0}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#21282a",
+            "Name": "Night Gray",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA+",
+            "uuid": "{82e9aab1-f635-4f60-bc57-37b3ef8d03a2}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#d34c36",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PLA+",
+            "uuid": "{3524f407-e2e4-41cf-95ed-8a00ee45973f}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#bf3f62",
+            "Name": "Pink",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{d3666d32-ab47-4f2c-a137-ae546b1283f1}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#a62f36",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{16cc3f9a-7b98-47fc-a0fa-5a40df479b71}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#727571",
+            "Name": "Silver",
+            "Owned": false,
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{45489221-d0c7-41ed-86e8-68cf0d942769}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#abb4ba",
+            "Name": "Space Gray",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA+",
+            "uuid": "{2ced4dec-d1ba-4621-a9a7-4e0c21e725c5}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#d5c2a0",
+            "Name": "Tan",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{eb84ab5a-9fca-4763-b149-b8703e2e8bf7}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#0099a7",
+            "Name": "Teal",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PLA+",
+            "uuid": "{46bb58a1-8a41-4bb5-b9de-63f3337062dd}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#c4cbb1",
+            "Name": "Vanilla Cream",
+            "Owned": false,
+            "Transmissivity": 7.8,
+            "Type": "PLA+",
+            "uuid": "{ea123561-c1c6-4e19-b3c6-cffd9eb9be34}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#c1b4a9",
+            "Name": "Vintage Rose",
+            "Owned": false,
+            "Transmissivity": 7.4,
+            "Type": "PLA+",
+            "uuid": "{faa25840-b339-4a2b-983d-38d12b40423d}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#6e5a95",
+            "Name": "Violet",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{e3bd6e31-4cf4-4037-b503-2bfd07431cb0}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#e4e8e7",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5.6,
+            "Type": "PLA+",
+            "uuid": "{c8a59a0c-e61b-42b4-a429-0c744f27a620}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#eac322",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{7ab9ffc7-a863-4923-aed0-6d56d6e993dc}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#ffffff",
+            "Name": "Xtreme White",
+            "Owned": false,
+            "Transmissivity": 2.8,
+            "Type": "PLA+",
+            "uuid": "{e1c51c0a-3494-4c1d-a812-0c100e10cb74}"
+        }
+    ]
+}

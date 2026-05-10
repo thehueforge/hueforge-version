@@ -1,0 +1,112 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Kingroon",
+            "Color": "#061919",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{67dc4416-9454-401f-bf48-7b213a07e3ae}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{c22df887-2dfa-490f-bebc-29ba77fa9219}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#0a43ae",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{5fb25e94-845c-43c4-b034-277564742a8d}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#b46842",
+            "Name": "Brown",
+            "Owned": false,
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{c05c6048-5ba5-4dd3-a915-8dda806f26d9}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#7f9393",
+            "Name": "Gray",
+            "Owned": false,
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{9974f555-655e-4830-9e9e-9d24eb433dc6}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#11b254",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{ccf5062e-c3da-4e75-979f-e82491ecc3dc}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#dfa241",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 4.6,
+            "Type": "PLA",
+            "uuid": "{eda6cffd-a2fd-413c-ac96-9502bc780845}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#d73737",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PLA",
+            "uuid": "{d5ec4c45-5971-45ed-a2f6-12d81ee23e43}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#96b4b4",
+            "Name": "Silver",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{a3ba1c92-1e22-4ad6-a7c8-4f0926ba02da}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#e0bd77",
+            "Name": "Skin",
+            "Owned": false,
+            "Transmissivity": 3.7,
+            "Type": "PLA",
+            "uuid": "{c91c8a1b-f233-4368-b5e9-3eb3aaaf2e93}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#ecffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 4.7,
+            "Type": "PLA",
+            "uuid": "{95d9878b-95f6-482c-8ae1-a208e9384b61}"
+        },
+        {
+            "Brand": "Kingroon",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5.8,
+            "Type": "PLA",
+            "uuid": "{dc9e10e5-9d12-45f5-aa9b-93fc2ac2ed44}"
+        }
+    ]
+}

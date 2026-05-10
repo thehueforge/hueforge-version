@@ -1,0 +1,364 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#343579",
+            "Name": "Autobot Blue",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{1e56c408-3d35-4948-ae5e-6927c93f13ad}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#5b6770",
+            "Name": "Battleship Gray",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{224d3eaf-8780-46c3-8581-7733abad390c}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{ffdf16a6-9aad-4f76-b8f9-f7e2a9ba27d3}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#5d2a2c",
+            "Name": "Black Cherry",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{5e743fd1-6bc6-4264-8a1f-62a9ba704707}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#154734",
+            "Name": "British Racing Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{4311c073-d4d3-4c30-88ac-2396b8752547}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#3d6085",
+            "Name": "Cadet Blue",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{6ff7216e-8f50-4a8f-9faf-24ec1d2c726f}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#e56a54",
+            "Name": "Caribbean Coral",
+            "Owned": false,
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{ed6d37db-4e68-4e7d-b5fb-04629ad8a926}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#7e7f74",
+            "Name": "Castle Limestone Gray",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{75becd05-9a2d-459f-8448-68d8800d8ebd}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#41273b",
+            "Name": "Decepticon Purple",
+            "Owned": false,
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{1c6b3683-d60b-44d1-92ce-40d14f0efbe1}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#ffa400",
+            "Name": "Egg Yolk Yellow",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{fc7b9332-8fb5-4680-a3d7-44bdb339dbb9}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#da291c",
+            "Name": "Enzo Red",
+            "Owned": false,
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{b43485e1-40f2-4ea1-bd74-08bfdae5e72a}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#253746",
+            "Name": "Fighter Jet Blue",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{c9efdf12-a7a8-4b5c-9373-2c9242b97a35}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#898d8d",
+            "Name": "Game Cartridge Gray",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{fe243de8-8817-4f3a-adc5-eaf34f48ffcc}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#c8b273",
+            "Name": "Gold Krugerrand",
+            "Owned": false,
+            "Transmissivity": 16,
+            "Type": "PLA",
+            "uuid": "{626ba77b-9cd0-4b0f-90c7-d7d35b97c707}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#9caf88",
+            "Name": "Great Depression Jadeite Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{b1c6ec8e-0d65-4a61-a304-77bbb5d707d3}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#81312f",
+            "Name": "Hannibal Red",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{17898979-80a1-4e4e-b60c-57c104992b72}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#ae2573",
+            "Name": "Harajuka Pink",
+            "Owned": false,
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{4d2b3193-f1f6-40c2-a9e6-5cbfce24d197}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#781f1c",
+            "Name": "Iron Red",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{5667fb6a-3f73-487c-ba2e-e1277db07d49}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#004851",
+            "Name": "Leviathan Blue Green",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{90c50b37-8131-448c-b251-39bbd75330f0}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#000000",
+            "Name": "Matte Black",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{2c7bfea2-2f8b-4566-955e-42b8b5d4c381}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#d76b00",
+            "Name": "McLaren Orange",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{99744926-7e44-451d-86bb-a28ce02fc8b7}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#007672",
+            "Name": "Mid Century Teal",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{2be1f50f-25bf-4601-9a99-f8dedac2bd57}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#535435",
+            "Name": "Military Green",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{2462e6dd-90fa-418e-9b24-cc3793726469}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#a39382",
+            "Name": "Military Khaki",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{7ec70131-1b7d-4525-9b31-8deadc9b2325}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#7d622e",
+            "Name": "Military MBT Brown",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{5fbf63b4-da3b-4db5-b34f-3f97135225e3}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#716760",
+            "Name": "Primordial Earth",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{f1a8831f-09f3-4d99-8f08-21e0e4b65ff4}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#b2b4b2",
+            "Name": "Prototype Gray",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{163f6042-c28f-4289-ac91-7104884c3b82}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#a2a2a1",
+            "Name": "Silver Dollar",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{76dae63c-5b8a-42d2-9ae7-aa71d4458043}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#f3d03e",
+            "Name": "Simpson Yellow",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{ac0f21b0-5166-46e5-a2c2-450b5399f2ef}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#b58150",
+            "Name": "Skin-Dark Complexion",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{bf7541cb-dd6b-47ee-9705-5986214f7027}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#4e3524",
+            "Name": "Skin-Deep Complexion",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{b030c0e0-4392-4c5b-9ad5-825b3490c7d9}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#ddcba4",
+            "Name": "Skin-Fair Complexion",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{ab701bfa-465e-4903-937e-30b16f0d1bfd}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#d9c89e",
+            "Name": "Skin-Ivory",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{8f367e7d-3e75-4f18-9a6d-a3442f72c970}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#ceb888",
+            "Name": "Skin-Universal Beige",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{ac9c3f63-55eb-46f1-a873-7c89517f925d}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#4a783c",
+            "Name": "St Andrews Green",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{f52fc851-b20b-4b97-92b5-88485abd6102}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#212322",
+            "Name": "Stealth Gray",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{44820b71-09cf-4e40-ad9a-cdb358ac08d8}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#7c878e",
+            "Name": "Steel Gray",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{42e79a38-bb2a-4f9f-b3de-3f4da107cd60}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#c07d59",
+            "Name": "Terra Cotta",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{1b2491ad-94cb-4219-ac92-3136699b491b}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#c63527",
+            "Name": "Volcano Orange Red",
+            "Owned": false,
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{527a015c-deda-4d04-af1f-1af11ce58f96}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{1c741ca6-0b01-46ff-ab1c-3726665315bb}"
+        }
+    ]
+}

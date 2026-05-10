@@ -1,0 +1,688 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Prusament",
+            "Color": "#163f0d",
+            "Name": "Army Green",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{ea1c8a26-d8d7-4e8b-a4ea-7d8375822691}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#25d4d6",
+            "Name": "Azure Blue",
+            "Owned": false,
+            "Transmissivity": 6.6,
+            "Type": "PLA",
+            "uuid": "{efdfc32d-a451-4df8-bb1b-d235366739ff}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffbc",
+            "Name": "Lime Green",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{03560556-e4fc-4a1e-a831-b5d40d4a5ab5}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffa4d7",
+            "Name": "Ms. Pink",
+            "Owned": false,
+            "Transmissivity": 4.1,
+            "Type": "PLA",
+            "uuid": "{18348015-efdf-48b6-b9ed-86245e9f1975}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#c4ddc0",
+            "Name": "My Silverness",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{b2442a0e-fb06-4d12-8b40-c45374827602}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffff8e",
+            "Name": "Oh My Gold",
+            "Owned": false,
+            "Transmissivity": 4.1,
+            "Type": "PLA",
+            "uuid": "{c1ef40f5-f08e-4ca6-ba6e-4116fa406399}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Pearl White",
+            "Owned": false,
+            "Transmissivity": 5.4,
+            "Type": "PLA",
+            "uuid": "{b7172c13-747b-460c-9997-3d43a6cf86b9}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#1067c2",
+            "Name": "Royal Blue",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{f2f8b4dc-23bf-40c0-b6c1-7790332ad6e7}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#fbb556",
+            "Name": "Viva La Bronze",
+            "Owned": false,
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{f880e8db-64fb-4726-9432-4387aaa36927}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#15ed26",
+            "Name": "Galaxy Green",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{0823edcc-cc48-4250-8e7e-e252724a4c06}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0f0939",
+            "Name": "Galaxy Purple",
+            "Owned": false,
+            "Transmissivity": 4.7,
+            "Type": "PLA",
+            "uuid": "{1d318ea3-7379-4393-afb0-727278e94edb}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#cfe3c0",
+            "Name": "Galaxy Silver",
+            "Owned": false,
+            "Transmissivity": 6.4,
+            "Type": "PLA",
+            "uuid": "{e1a64520-88bb-4e94-b6d1-dd47b669f6c6}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0a2811",
+            "Name": "Gentleman's Grey",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{886ef721-7bd3-4f14-b759-09bb44542303}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#c4e0c3",
+            "Name": "Gravity Grey",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{dab888d0-b763-4dc2-b8df-90af64982643}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0a1e0b",
+            "Name": "Jet Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{03b9ff62-fa7a-45e4-b9d7-f80d54bc0523}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff0d1a",
+            "Name": "Lipstick Red",
+            "Owned": false,
+            "Transmissivity": 3.3,
+            "Type": "PLA",
+            "uuid": "{6910b59b-7821-4743-a2be-5306754d7c67}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Marble Grey",
+            "Owned": false,
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{b8669b7e-7418-45d7-bab2-104ad803b800}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0b691d",
+            "Name": "Opal Green",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{601ebed7-bd88-4d4f-9e62-ca9e717108cf}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#cfda92",
+            "Name": "Pearl Mouse",
+            "Owned": false,
+            "Transmissivity": 2.3,
+            "Type": "PLA",
+            "uuid": "{b5a39cb8-3d20-49fd-9fdc-315ac99f2bc1}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffff93",
+            "Name": "Pineapple Yellow",
+            "Owned": false,
+            "Transmissivity": 7.6,
+            "Type": "PLA",
+            "uuid": "{06805203-388a-4b85-a63c-9aa32875aefe}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#163114",
+            "Name": "Prusa Galaxy Black",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{05a94fae-6195-453a-8d98-48464e9ea64e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Pristine White",
+            "Owned": false,
+            "Transmissivity": 5.1,
+            "Type": "PLA",
+            "uuid": "{3e10f1e6-fb9a-49da-a501-779ea9ae9805}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff7238",
+            "Name": "Prusa Orange",
+            "Owned": false,
+            "Transmissivity": 6.6,
+            "Type": "PLA",
+            "uuid": "{ac07a4b6-953f-49b1-b17b-79938b281566}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0d210c",
+            "Name": "Recycled",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{cca3b6bc-ce9e-44f2-aafe-279ca92c207b}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#bbff78",
+            "Name": "Simply Green",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{7d4aa8a4-bd86-4ad5-9c25-5ff55d8b7999}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#fffff7",
+            "Name": "Vanilla White",
+            "Owned": false,
+            "Transmissivity": 7.1,
+            "Type": "PLA",
+            "uuid": "{1ca65b96-2c4c-4f4e-854d-6a23a5c6c022}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#241d0d",
+            "Name": "Premium Mystic Brown",
+            "Owned": false,
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{05d20747-1fb2-4e04-9cb4-bbc9aaa445d0}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#3d651f",
+            "Name": "Premium Mystic Green",
+            "Owned": false,
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{d105808e-5866-420b-88e9-32d40ac0e8a0}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#fffff3",
+            "Name": "Risotto Pigment",
+            "Owned": false,
+            "Transmissivity": 11,
+            "Type": "PLA",
+            "uuid": "{6e1b5364-bedb-46d7-b5f6-78b4625176ff}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#201c08",
+            "Name": "Algae Pigment",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PLA",
+            "uuid": "{74fe0901-f852-494d-bd82-ed98e4b325d2}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#8e1012",
+            "Name": "Wine Pigment",
+            "Owned": false,
+            "Transmissivity": 2.8,
+            "Type": "PLA",
+            "uuid": "{efe65dac-991c-4359-b631-cec010a69b6c}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#d89c43",
+            "Name": "Corn Pigment",
+            "Owned": false,
+            "Transmissivity": 6.2,
+            "Type": "PLA",
+            "uuid": "{a8522cdb-655f-4583-8499-c19a615b950d}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0c2c11",
+            "Name": "Anthracite Grey",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{b0aa2dfc-d67a-41f3-b65a-7c79398bba2b}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#e32b1f",
+            "Name": "Carmine Red Transparent",
+            "Owned": false,
+            "Transmissivity": 6.2,
+            "Type": "PETG",
+            "uuid": "{a9143ad6-598b-41df-bfd2-6e05292ef1e2}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#85d1c4",
+            "Name": "Chalky Blue",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PETG",
+            "uuid": "{78604831-3de5-4aa4-85f5-69dd471e9567}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Clear",
+            "Owned": false,
+            "Transmissivity": 100,
+            "Type": "PETG",
+            "uuid": "{75df061a-bb7e-455d-b4a6-7049bf537e3c}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0a1e0b",
+            "Name": "Jet Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{0ae71104-5a79-46e8-bbe4-02a78d1d4cde}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0f8827",
+            "Name": "Jungle Green",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PETG",
+            "uuid": "{4e8d4055-9023-4d4c-8b74-2c9251b31f86}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff0d1a",
+            "Name": "Lipstick Red",
+            "Owned": false,
+            "Transmissivity": 2.8,
+            "Type": "PETG",
+            "uuid": "{7016f4cf-222e-48c2-8453-edeca43bec9d}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffbf",
+            "Name": "Mango Yellow",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PETG",
+            "uuid": "{a5f5171d-59e0-42b3-a4fa-de550cdc1fe5}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#09200a",
+            "Name": "Matte Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{2b043d3b-9d7d-4302-905f-34513c3ca51e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Neon Green Transparent",
+            "Owned": false,
+            "Transmissivity": 75,
+            "Type": "PETG",
+            "uuid": "{c46c1844-a7c6-4705-9203-7aee4c8ab755}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#09deec",
+            "Name": "Ocean Blue",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PETG",
+            "uuid": "{96fd09df-6e85-4981-89b0-6f2fc48fef1e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#c0eea5",
+            "Name": "Pistachio Green",
+            "Owned": false,
+            "Transmissivity": 0.9,
+            "Type": "PETG",
+            "uuid": "{b3343aca-717d-4138-96f8-87ca19a54d72}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#133112",
+            "Name": "Prusa Galaxy Black",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PETG",
+            "uuid": "{d1c81315-f662-4032-81c5-0db883992c99}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff7e3c",
+            "Name": "Prusa Orange",
+            "Owned": false,
+            "Transmissivity": 6.2,
+            "Type": "PETG",
+            "uuid": "{e98dbb59-e603-4423-9a03-2d96a081c37f}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffdb",
+            "Name": "Prusa Orange Transparent",
+            "Owned": false,
+            "Transmissivity": 44.2,
+            "Type": "PETG",
+            "uuid": "{b3356210-0bfa-4d6b-aef0-c5c2b19e2234}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0d210c",
+            "Name": "Recycled",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PETG",
+            "uuid": "{8fa57f48-2378-4f8f-9631-9d880b7960e0}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Signal White",
+            "Owned": false,
+            "Transmissivity": 3.4,
+            "Type": "PETG",
+            "uuid": "{5e0a7883-0f67-4e3c-ab4c-46b5b2830d7a}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffb192",
+            "Name": "Terracotta Light",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PETG",
+            "uuid": "{25eb1bca-eaca-4f73-acca-41c89d721318}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#071df2",
+            "Name": "Ultramarine Blue Transparent",
+            "Owned": false,
+            "Transmissivity": 8.2,
+            "Type": "PETG",
+            "uuid": "{907e1db1-bd4d-41db-b6a3-5a9eb7de670e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#bed2af",
+            "Name": "Urban Grey",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PETG",
+            "uuid": "{31cd56e9-d5c6-49fb-b2f9-535d33808bd6}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffff57",
+            "Name": "Yellow Gold",
+            "Owned": false,
+            "Transmissivity": 9.2,
+            "Type": "PETG",
+            "uuid": "{6681101f-eb5b-46eb-ba82-81b92094e05d}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0c250d",
+            "Name": "Carbon Fiber Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{fdcb69ea-8133-4499-9968-c4932d01936e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#143113",
+            "Name": "Tungsten 75%",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{de566e3e-6d77-4ffb-8b54-79a86fe8c9b6}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0a1e0b",
+            "Name": "V0 Jet Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{b98c1063-25b5-4e96-b5dd-e4e5a766c54c}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "V0 Natural",
+            "Owned": false,
+            "Transmissivity": 10.4,
+            "Type": "PETG",
+            "uuid": "{2edfed95-b245-4535-a92f-fb0f23bfa118}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Bright Green Transparent",
+            "Owned": false,
+            "Transmissivity": 49.2,
+            "Type": "PVB",
+            "uuid": "{00b508be-9d7b-4889-8ff3-c9c91f8cd393}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#053fa6",
+            "Name": "Dark Blue Transparent",
+            "Owned": false,
+            "Transmissivity": 7.6,
+            "Type": "PVB",
+            "uuid": "{8f370b51-c129-43a1-a980-3ed3807fc79a}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffec",
+            "Name": "Light Yellow Transparent",
+            "Owned": false,
+            "Transmissivity": 34.6,
+            "Type": "PVB",
+            "uuid": "{da7d5b12-f3c9-41c5-9b34-31f531eec279}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Natural Transparent",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "PVB",
+            "uuid": "{924e8200-26f2-420c-8f4a-88237cb8bb71}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#fff38a",
+            "Name": "Prusa Orange Transparent",
+            "Owned": false,
+            "Transmissivity": 34.7,
+            "Type": "PVB",
+            "uuid": "{34b2d4e7-19ad-4e29-92d8-d265073be611}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffe6",
+            "Name": "Smoky Black Transparent",
+            "Owned": false,
+            "Transmissivity": 18,
+            "Type": "PVB",
+            "uuid": "{23c5e330-e23d-4fa3-81e0-e0d9e948e5d3}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffcc",
+            "Name": "Woodfill Linden Light",
+            "Owned": false,
+            "Transmissivity": 2.4,
+            "Type": "PLA+",
+            "uuid": "{9bc20d10-9144-45e6-ac38-cf3edfded837}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0c1b0b",
+            "Name": "Jet Black",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "ASA",
+            "uuid": "{42729a02-7d07-4824-9382-3363ad0916dc}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#eb141b",
+            "Name": "Lipstick Red",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "ASA",
+            "uuid": "{9787c522-27ab-4733-8684-9adfc97b83b1}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 6.5,
+            "Type": "ASA",
+            "uuid": "{8901c41d-9fab-444b-bb7f-a8e759c84457}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#122b0f",
+            "Name": "Prusa Galaxy Black",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "ASA",
+            "uuid": "{e22ba0d4-f479-4803-aa8a-9c5dd8d841b8}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff8344",
+            "Name": "Prusa Orange",
+            "Owned": false,
+            "Transmissivity": 4.4,
+            "Type": "ASA",
+            "uuid": "{6d24c75a-2171-4b5e-9810-57b347f664b5}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#071f16",
+            "Name": "Sapphire Blue",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "ASA",
+            "uuid": "{2f23442b-301e-42fb-bcc7-e6beab07eb89}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Signal White",
+            "Owned": false,
+            "Transmissivity": 2.4,
+            "Type": "ASA",
+            "uuid": "{ea592516-4b19-4716-b518-1b8c69bf0499}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#0b230d",
+            "Name": "Jet Black",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PC",
+            "uuid": "{f34d1a9f-6731-4bea-b933-60953119c629}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ffffff",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 11.3,
+            "Type": "PC",
+            "uuid": "{6fb4d4ad-d041-47c0-bc82-62cc0e85df9e}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#ff9445",
+            "Name": "Prusa Orange",
+            "Owned": false,
+            "Transmissivity": 6.4,
+            "Type": "PC",
+            "uuid": "{aa58f8b7-62f8-4cb1-b2f8-c91390cf8f3f}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#c3dbbf",
+            "Name": "Urban Grey",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PC",
+            "uuid": "{2e3b6c91-43d6-4c9e-8440-61ddcb5396bb}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#8dffd6",
+            "Name": "Prusa Pro Green",
+            "Owned": false,
+            "Transmissivity": 1.6,
+            "Type": "PC",
+            "uuid": "{623c2ba8-6664-4665-9fec-bc3b5ab4364a}"
+        }
+    ]
+}

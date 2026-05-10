@@ -1,0 +1,1324 @@
+{
+    "Filaments": [
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#d9cbb1",
+            "Name": "Almond",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA+",
+            "uuid": "{77e929e0-08bf-46a5-b38c-bc431e5cf50e}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#daccb2",
+            "Name": "Almond",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA+",
+            "uuid": "{ebef8db4-6781-4741-a2f7-0584d02ce7d9}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#8bd8c5",
+            "Name": "Aquamarine",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.8,
+            "Type": "PCTG",
+            "uuid": "{4be288f1-811c-4482-b00e-ed56a0b80e08}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#99d4c0",
+            "Name": "Aquamarine",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA+",
+            "uuid": "{e5bc87fd-d685-4614-859a-e5b4068f9277}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#97d5c1",
+            "Name": "Aquamarine",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA+",
+            "uuid": "{2203ebde-449c-446f-8f21-fd98667b7ed6}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#cd4e36",
+            "Name": "Autumn Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA+",
+            "uuid": "{8c7b84b5-03a2-4187-a6ac-8886c8556e55}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#cf5227",
+            "Name": "Autumn Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{6eeb57c9-b453-4d90-8e3c-d7f0fd488658}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#fc8a3b",
+            "Name": "Bitcoin Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PCTG",
+            "uuid": "{b86b5052-25b6-4803-b800-854889d0856c}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#f0e1c6",
+            "Name": "Bone White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA+",
+            "uuid": "{bd21ec53-ca9b-49b9-8ec9-75d94a7c2f82}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#eedfc3",
+            "Name": "Bone White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PCTG",
+            "uuid": "{d6980b11-d6b2-4da2-875f-c091750291f9}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#f2e2c8",
+            "Name": "Bone White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{a1d44ffd-4ff5-4f65-9a9c-41515e9fdd2b}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#eaebe9",
+            "Name": "Brightest White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.9,
+            "Type": "PLA+",
+            "uuid": "{4fdcd0ed-0357-4d66-a7f4-c5bdbca8942a}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#ececec",
+            "Name": "Brightest White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{d9834440-b00d-46f8-b12b-bea5a10e1169}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#e9edf0",
+            "Name": "Brightest White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PCTG",
+            "uuid": "{5167f837-aee7-47bc-9926-b262df181873}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#e7aab4",
+            "Name": "Bubblegum Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.6,
+            "Type": "PLA+",
+            "uuid": "{7c923a34-274c-478d-bc1e-ce18ba2835b2}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#e9aab5",
+            "Name": "Bubblegum Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA+",
+            "uuid": "{893afc50-9bd8-40a6-8a14-a899641e36bc}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#008da1",
+            "Name": "Caribbean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PCTG",
+            "uuid": "{f99e382a-db92-4f52-8015-e382e339fce3}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#008ea6",
+            "Name": "Caribbean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA+",
+            "uuid": "{e6bc8788-cc4d-4b7a-b5d6-e0beeec45e53}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#0091a7",
+            "Name": "Caribbean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA+",
+            "uuid": "{d5c49d30-f5a8-4f07-9cfc-5f3c5562cabd}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#72787b",
+            "Name": "Castle Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA+",
+            "uuid": "{6c3b0d33-10f6-4dc0-8d7c-a9b4d021bafa}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#696d6f",
+            "Name": "Castle Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA+",
+            "uuid": "{caf92dcb-1915-4798-a7d0-10a0805bd2ab}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#45494b",
+            "Name": "Charcoal Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PCTG",
+            "uuid": "{7c15d36a-b3c4-4b73-a8de-e7df15756e0c}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#494e52",
+            "Name": "Charcoal Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA+",
+            "uuid": "{996ea70e-924d-4c4d-a2e9-7dab9438c60f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#4d565c",
+            "Name": "Charcoal Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA+",
+            "uuid": "{2868660c-3179-4d0a-8ae4-ac9eb5a7d198}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#563f3a",
+            "Name": "Chocolate Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA+",
+            "uuid": "{7ac09de3-4ede-41f6-b4cb-e9c8486f7031}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#51413d",
+            "Name": "Chocolate Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PCTG",
+            "uuid": "{31d14a3c-b746-4842-8309-31eb59ae51ef}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#543e38",
+            "Name": "Chocolate Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA+",
+            "uuid": "{f3909d62-ae0c-4a89-89a0-21cd557af6c8}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#18549b",
+            "Name": "Cobalt Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PCTG",
+            "uuid": "{037e39d9-9754-4f9a-9db3-f8ce4c2a8bc4}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#10357c",
+            "Name": "Cobalt Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.3,
+            "Type": "PLA+",
+            "uuid": "{f67b225b-3af7-45e7-9661-6cdd7922c305}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#00317b",
+            "Name": "Cobalt Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.4,
+            "Type": "PLA+",
+            "uuid": "{e382502e-dad0-4050-b490-c77c474fe651}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#ffbe25",
+            "Name": "Daffodil Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.1,
+            "Type": "PLA+",
+            "uuid": "{139182ac-de33-486a-8286-6d37eda1c4fc}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#fabe3c",
+            "Name": "Daffodil Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.5,
+            "Type": "PCTG",
+            "uuid": "{b43a5e51-d8c9-4b14-8b29-979cd1ac43be}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#ffc13f",
+            "Name": "Daffodil Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{74b120fb-594a-438b-94cd-da64251823a1}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#c2ac99",
+            "Name": "Desert Tan",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA+",
+            "uuid": "{38bcb137-eed5-4ac5-958f-14c6a50d0019}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#bba794",
+            "Name": "Desert Tan",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PCTG",
+            "uuid": "{370a82f4-1bca-49d5-9845-69188c795b55}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c0ab97",
+            "Name": "Desert Tan",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA+",
+            "uuid": "{53682005-afc1-4ff7-abf3-8b48259f759b}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#56c2d1",
+            "Name": "Electric Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA+",
+            "uuid": "{4ac9d5e8-e465-4c0b-a02a-2c1f25925c6d}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#5bc5d6",
+            "Name": "Electric Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA+",
+            "uuid": "{d5f6273c-c1a0-49da-bf4a-c9655cb31749}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#c8323a",
+            "Name": "Fire Engine Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA+",
+            "uuid": "{2db80ca4-ee8e-4a60-bf96-3e7f6396c8a2}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c72e22",
+            "Name": "Fire Engine Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{faab56f3-73e8-490d-88e9-3243ce0a497f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c43438",
+            "Name": "Fire Engine Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PCTG",
+            "uuid": "{db56f70c-0ccc-4cb9-b54b-a355430f28b5}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#009ccc",
+            "Name": "Fjord Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA+",
+            "uuid": "{ddb9f2f2-70ba-4e5b-a5f0-ca4569bcfb48}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#009dce",
+            "Name": "Fjord Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA+",
+            "uuid": "{a37aed48-9bae-4ecf-b906-081f0e6a2c09}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#977a6b",
+            "Name": "Flat Dark Earth",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA+",
+            "uuid": "{35f81c1e-cd6d-4bda-b38d-384be7c462e1}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#947768",
+            "Name": "Flat Dark Earth",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA+",
+            "uuid": "{89b9848e-733f-410e-9c1c-0e38ad5d0eff}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#8e7265",
+            "Name": "Flat Dark Earth",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PCTG",
+            "uuid": "{92cf9b93-769f-4df7-b3e8-2fd8efbf7d4f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#46bd69",
+            "Name": "Fluorescent Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 6.6,
+            "Type": "PLA+",
+            "uuid": "{e28ce694-c7a6-4ae4-a25f-ca042c67773e}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#3ec272",
+            "Name": "Fluorescent Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 10.8,
+            "Type": "PLA+",
+            "uuid": "{94505606-7491-436b-994c-cebf6d6fca0b}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#e37561",
+            "Name": "Fluorescent Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA+",
+            "uuid": "{3926f672-9cbe-4e26-abd5-3dd2bcf683a8}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#ec7b69",
+            "Name": "Fluorescent Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 8.4,
+            "Type": "PLA+",
+            "uuid": "{339989b2-f06d-461a-a418-c891d27a2aea}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#e77863",
+            "Name": "Fluorescent Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 9.9,
+            "Type": "PCTG",
+            "uuid": "{de4e4ec4-e839-449a-bc98-0caca193bdc7}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c3d453",
+            "Name": "Fluorescent Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 8.6,
+            "Type": "PLA+",
+            "uuid": "{25f71f13-c26f-4688-b380-413db08ae018}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#c5d668",
+            "Name": "Fluorescent Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.3000000000000025,
+            "Type": "PLA+",
+            "uuid": "{e4bb5e99-5c66-4dd0-983f-8a3f9eb08467}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#30624f",
+            "Name": "Forest Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA+",
+            "uuid": "{9dda6ea1-a72c-490e-89d5-44a5128665cb}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#2c644f",
+            "Name": "Forest Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA+",
+            "uuid": "{1320a18d-ba39-4de9-a46d-911ecef1e6a6}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#3c3c3b",
+            "Name": "Galaxy Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PCTG",
+            "uuid": "{50def6a9-ecbf-44a8-aadc-b7fffe2e5e92}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#60538d",
+            "Name": "Grape Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.8,
+            "Type": "PCTG",
+            "uuid": "{70ec6880-b2fa-413d-b33d-eb78da41dd1e}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#625592",
+            "Name": "Grape Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.2,
+            "Type": "PLA+",
+            "uuid": "{a68f2d58-0ac3-438c-943f-dd861d6a784e}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#5e518f",
+            "Name": "Grape Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA+",
+            "uuid": "{53b6744d-144c-48ee-89a5-dc466bd7465a}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#469854",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PCTG",
+            "uuid": "{973c3c45-3fdc-46ef-96c7-a99853d23254}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#4c9f5a",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA+",
+            "uuid": "{725acc95-2072-472f-a325-1aa75f61c8bd}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#4b9d59",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA+",
+            "uuid": "{7a0599fb-9eb8-45df-bc7b-fbcf0e17cb0f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#f5b043",
+            "Name": "Harvest Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.9,
+            "Type": "PLA+",
+            "uuid": "{6c6e42e9-446c-45e3-8812-cdb3658cb147}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#f6b04d",
+            "Name": "Harvest Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{beb05d04-8ab4-44f9-8fb2-e8a8e483b738}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#83888a",
+            "Name": "Industrial Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA+",
+            "uuid": "{52858e6c-7b16-45af-8e93-b860e8851fb5}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#848786",
+            "Name": "Industrial Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA+",
+            "uuid": "{ba2c6cc1-8539-4c74-8b7d-f3d200dc08b9}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#7d8487",
+            "Name": "Industrial Gray",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PCTG",
+            "uuid": "{851eea21-0099-4576-baf1-5be1427d1864}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#8a2f35",
+            "Name": "Iron Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA+",
+            "uuid": "{4e9414d2-a03f-461f-b40d-26c7590f253f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#892324",
+            "Name": "Iron Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA+",
+            "uuid": "{6601f24c-e3b7-4fdd-a851-a5caf0cd8d2b}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#8e3338",
+            "Name": "Iron Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PCTG",
+            "uuid": "{986755e1-7cad-4f28-b8f4-0f491e8e75f2}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#b95f93",
+            "Name": "Island Fuschia",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA+",
+            "uuid": "{ad9a1ed8-ae83-4d7f-aaca-1700d71e6eb3}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b6558c",
+            "Name": "Island Fuschia",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{4ca6a3f5-671d-4af9-b32b-60005d9a14ca}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#60a52d",
+            "Name": "Lime Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.1,
+            "Type": "PCTG",
+            "uuid": "{dfaed390-206e-44e0-a9c9-f595a21cc076}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c5c912",
+            "Name": "LulzBot Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.6,
+            "Type": "PLA+",
+            "uuid": "{fe5410ac-a73c-46a1-ad76-c4965a21a529}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#bac21b",
+            "Name": "LulzBot Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 6.1,
+            "Type": "PCTG",
+            "uuid": "{035e2ee7-2dd1-489c-b300-a0aece0a14f8}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#c7c725",
+            "Name": "LulzBot Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.2,
+            "Type": "PLA+",
+            "uuid": "{142f05ec-1f15-46b1-96cf-45c7c06fe70c}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#434443",
+            "Name": "Matte Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PCTG",
+            "uuid": "{e66c2f40-e9eb-4e48-8d8c-ec20ae94b33b}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#8e5244",
+            "Name": "Metallic Copper",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PCTG",
+            "uuid": "{cc9394d3-db2f-44d9-9d59-e8b956dcd246}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#844839",
+            "Name": "Metallic Copper",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.1,
+            "Type": "PLA+",
+            "uuid": "{4282cd73-eacb-441a-9f5c-3c2e17f43489}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c08c4a",
+            "Name": "Metallic Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.8,
+            "Type": "PLA+",
+            "uuid": "{10bd4625-832d-4906-a636-7de72c36bea4}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#c6904c",
+            "Name": "Metallic Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.1,
+            "Type": "PLA+",
+            "uuid": "{5d339124-ad5c-4048-b677-e0e2d7983995}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b99a45",
+            "Name": "Metallic Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 5.2,
+            "Type": "PCTG",
+            "uuid": "{5186c098-3435-4c04-85da-4d146dd6fd03}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#838787",
+            "Name": "Metallic Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PCTG",
+            "uuid": "{9e594ef0-df2a-4d60-a342-45e9f6924ba1}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#818485",
+            "Name": "Metallic Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA+",
+            "uuid": "{a0eedfd9-2e66-44cc-bf01-d3e79141dd04}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#8e4e43",
+            "Name": "Metallic Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4.2,
+            "Type": "PLA+",
+            "uuid": "{8d99fdef-fada-461f-9fe4-b9a6dc60893f}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#818184",
+            "Name": "Metallic Silver",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA+",
+            "uuid": "{1c77b063-066e-4bc3-baf1-da02560b9484}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#333333",
+            "Name": "Midnight Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA+",
+            "uuid": "{bd71f547-cb05-44a9-9504-b5bd23db410a}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#333333",
+            "Name": "Midnight Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA+",
+            "uuid": "{626ee01f-5849-4622-aebf-67d85c0a3914}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#383737",
+            "Name": "Midnight Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PCTG",
+            "uuid": "{2fe9a53f-0160-43b1-86c5-00ff908e8116}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#b7b3a3",
+            "Name": "Natural",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 88,
+            "Type": "PLA+",
+            "uuid": "{a90fe229-8a4d-441d-bc13-15fa500775cb}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#353e4f",
+            "Name": "Navy Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PCTG",
+            "uuid": "{785bc9a2-23a3-4e24-9653-81e300cf7377}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#006ba5",
+            "Name": "Ocean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA+",
+            "uuid": "{c98bbf75-5360-4846-8529-7a4500a0aef8}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#003da4",
+            "Name": "Ocean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PCTG",
+            "uuid": "{0437da56-97ac-4bdc-ac5b-fd4188ef5f6d}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#0068a4",
+            "Name": "Ocean Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA+",
+            "uuid": "{ef736624-a72a-4a40-9287-e267d2090858}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#545746",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{0471317f-109d-4fcf-b0d0-7bdb327fc826}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#515444",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA+",
+            "uuid": "{7808028b-0cb3-4b4f-8245-0715f81b164f}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#4f5245",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PCTG",
+            "uuid": "{3352c0dd-71ce-47fc-a7ff-9a15d964899b}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#b5d59e",
+            "Name": "Pistachio",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.2,
+            "Type": "PLA+",
+            "uuid": "{ce6fce8d-5ea6-416c-93f0-63cea40f8ed0}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b2d49a",
+            "Name": "Pistachio Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA+",
+            "uuid": "{e696f92d-0029-424d-b1ae-d1d3a6c2f4a8}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b8897d",
+            "Name": "Silky Black Hills Gold",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA+",
+            "uuid": "{105e1331-6bf6-4836-8ab1-c9c8458d5a77}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#d9a96c",
+            "Name": "Silky Goldenrod",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.1,
+            "Type": "PLA+",
+            "uuid": "{e888b99e-a0d7-4456-b42e-f7c9133829cf}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#2a7b95",
+            "Name": "Silky Royal Navy Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA+",
+            "uuid": "{a807217e-7db2-4c2b-ba4b-41db53f6b6c5}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b4b8ba",
+            "Name": "Silky Silverbell",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA+",
+            "uuid": "{452f761b-1e10-4fa6-a191-a5fa8b5c1121}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#5f997e",
+            "Name": "Silky Vine Leaf Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA+",
+            "uuid": "{b1645e77-5b91-4240-86a3-54cc48117990}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#f0f0e8",
+            "Name": "Snow White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.8,
+            "Type": "PLA+",
+            "uuid": "{5c2557f9-0bc6-4972-82fc-dc39463e9043}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#eef2ef",
+            "Name": "Snow White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PCTG",
+            "uuid": "{b3c19482-cffd-4ed7-836a-1ab3e4085ac9}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#f1f1ea",
+            "Name": "Snow White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA+",
+            "uuid": "{52a4e368-187f-446f-9a09-4f841c2246a9}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#fb7747",
+            "Name": "Tangerine Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA+",
+            "uuid": "{96aa0895-d77f-40dd-99ae-b05b72be4c30}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#364c7f",
+            "Name": "Toolbox Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.2,
+            "Type": "PCTG",
+            "uuid": "{d1e8b989-db14-4b0a-9c98-0ba730834353}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#cebd60",
+            "Name": "Toolbox Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PCTG",
+            "uuid": "{b9eeaeef-b842-4ca3-8e95-e02fcf6c85ff}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#c86744",
+            "Name": "Toolbox Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.7,
+            "Type": "PCTG",
+            "uuid": "{8b66705f-b215-4bfe-be39-a91f985edffd}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#a74031",
+            "Name": "Toolbox Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PCTG",
+            "uuid": "{bd077753-a604-47a7-b9fd-8e4e5626fd1d}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#367073",
+            "Name": "Toolbox Teal",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PCTG",
+            "uuid": "{3f94cacb-7be3-47de-96f2-59ec364e29c8}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#ffb347",
+            "Name": "Toolbox Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.1,
+            "Type": "PCTG",
+            "uuid": "{d5d5dec7-fa7f-4e9c-a0f8-8bf696385fd5}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#96a22a",
+            "Name": "Transparent Lime Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 96.3,
+            "Type": "PCTG",
+            "uuid": "{78880ab5-01e4-4bcb-875d-e23f5d1823d4}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#6e2c34",
+            "Name": "Transparent Ruby Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 11.9,
+            "Type": "PCTG",
+            "uuid": "{5ea3071f-8d7c-4c49-be16-e4a6f5986cfe}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#b94e2c",
+            "Name": "Transparent Signal Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 32.2,
+            "Type": "PCTG",
+            "uuid": "{c81b3a1d-a503-4d04-9e78-7eefa9706c8c}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#143661",
+            "Name": "Transparent Ultramarine Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 15.1,
+            "Type": "PCTG",
+            "uuid": "{95b79b1e-25cd-4e13-b0a7-8f26c8793d7c}"
+        },
+        {
+            "Brand": "3D-Fuel",
+            "Color": "#ddb19a",
+            "Name": "Warm Bisque",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA+",
+            "uuid": "{8e4f7f3f-4fc9-4b90-8de0-3ccc2515b8fb}"
+        },
+        {
+            "Brand": "3D-Fuel Tough",
+            "Color": "#deb29d",
+            "Name": "Warm Bisque",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA+",
+            "uuid": "{4b1b09f3-dcf6-4b2c-9a6c-f24f2f857ee0}"
+        }
+    ]
+}

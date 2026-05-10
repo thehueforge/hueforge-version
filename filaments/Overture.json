@@ -1,0 +1,573 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Overture",
+            "Color": "#6d6d74",
+            "Name": "Ash Grey",
+            "Owned": false,
+            "Transmissivity": 1.2,
+            "Type": "ABS",
+            "uuid": "{74a2520d-1b8a-4656-8b14-855791940898}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#050916",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "TPU",
+            "uuid": "{e9ba2024-4782-4fc3-9723-733fa447b7c5}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#052285",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 1.3,
+            "Type": "TPU",
+            "uuid": "{f0a2d807-ca2c-46fd-8f13-d0fe46819cff}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#034e89",
+            "Name": "Dark Blue",
+            "Owned": false,
+            "Transmissivity": 1.2,
+            "Type": "ABS",
+            "uuid": "{584430fa-c755-4d33-9b85-fe25dd4d4e73}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#075938",
+            "Name": "Dark Green",
+            "Owned": false,
+            "Transmissivity": 2.9,
+            "Type": "ABS",
+            "uuid": "{455c87f6-c337-4b06-ab46-ac42a4d70186}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ce8d00",
+            "Name": "Gold",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PETG",
+            "uuid": "{f0782d55-c7f3-4427-bd3b-c755090ad00a}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#c4d802",
+            "Name": "Grass Green",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PETG",
+            "uuid": "{0623622e-62c7-4e0c-88ad-c57f083fdfac}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#96b4c4",
+            "Name": "Gray",
+            "Owned": false,
+            "Transmissivity": 1.9,
+            "Type": "TPU",
+            "uuid": "{6a316a2d-acf1-4d79-ba36-e0f3c89b523f}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#189956",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 3.4,
+            "Type": "TPU",
+            "uuid": "{4c49c7a3-9253-4b18-b475-10d66385bb15}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#5ec4ea",
+            "Name": "Light Blue",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "ABS",
+            "uuid": "{5b37627b-d849-4b1b-83a6-dc4e3ee53785}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f9f7ed",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 14.9,
+            "Type": "ABS",
+            "uuid": "{d02661e5-dd05-4a4c-a994-02cf9f74a7e2}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#e67f30",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 6.6,
+            "Type": "TPU",
+            "uuid": "{dabe0310-e33e-4a65-804d-fa121289364a}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f79dbc",
+            "Name": "Pink",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{eff24d6b-8496-4df0-bd03-9aaf3e5bf72e}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#656910",
+            "Name": "Royal Gold",
+            "Owned": false,
+            "Transmissivity": 4.4,
+            "Type": "ABS",
+            "uuid": "{431b47bb-f829-4bf9-82dc-40bb210c943c}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#e6ffff",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5.6,
+            "Type": "TPU",
+            "uuid": "{7dd3d03b-ba03-4862-84e9-0bcede7d005e}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#faf75d",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 9.3,
+            "Type": "TPU",
+            "uuid": "{aca8b4cc-779f-421e-a10d-b332d1765fee}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#383939",
+            "Name": "Carbon Fiber Black",
+            "Owned": false,
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{96ff9269-8337-4fe4-954b-3b7e24a4d8d3}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#525234",
+            "Name": "Army Green",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{1ad38383-2426-48c0-941e-63c05d2e43c6}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#181718",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{dd0ffdb8-c9c6-4b82-9d12-a0e0b12e497d}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#1b6397",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{88243e82-9065-4a02-b321-8765b1b987be}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#519f62",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{6a66802d-ec1f-4f18-90e8-62e0c41d86ee}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#ce4f4e",
+            "Name": "Jeans Red",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{6898aa2d-1b4c-426b-8b4b-d14b3947ae31}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#5ec4ea",
+            "Name": "Light Blue",
+            "Owned": false,
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{cadb7176-5e10-4d16-bfae-1e2f03789488}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#a6896c",
+            "Name": "Light Brown",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{5421d42d-97f3-4dcd-9e54-bde8feb27763}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#74777d",
+            "Name": "Light Gray",
+            "Owned": false,
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{12e624d4-4aa8-406c-86ee-4d53b6717be5}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#bcd69b",
+            "Name": "Light Green",
+            "Owned": false,
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{b74fd734-c561-428c-b4f3-b12062904489}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#dab2b6",
+            "Name": "Light Pink",
+            "Owned": false,
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{d8896067-7970-48c8-8382-f47de79382fa}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#a88704",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{be75b920-b76c-4594-b9a2-207fbe7fc518}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#f79dbc",
+            "Name": "Pink",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{ce846d74-8de3-4948-b66c-1d6c7700c2d5}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#8c69b5",
+            "Name": "Purple",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{8fd8a0b5-ba2e-48d4-9688-b8f7ef1267a3}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#eb3b41",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{9850335b-43f7-4cd9-aa7d-bdfd0e4d954e}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#d0b5a4",
+            "Name": "Skin",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{b847da79-3566-40b7-a81c-42eef0b942a2}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#e6dede",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 3.7,
+            "Type": "PLA",
+            "uuid": "{40920887-e3d8-4afe-acad-a712a3e6ef19}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#af7643",
+            "Name": "Wood",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{b440214a-27df-4b1e-be00-67443183b96f}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#e4bb4c",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{a78be097-517a-473b-9a0e-dc86aea2ed32}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#404720",
+            "Name": "Army Green",
+            "Owned": false,
+            "Transmissivity": 0.4,
+            "Type": "PETG",
+            "uuid": "{1d499ee1-0630-4539-b985-dd46c3878bb5}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#0a92c0",
+            "Name": "Digital Blue",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "TPU",
+            "uuid": "{a147edb8-2023-4ac1-9ec6-d393c3f8bbef}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#74777d",
+            "Name": "Light Gray",
+            "Owned": false,
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{26cf292a-ecd5-482a-a1a3-637ee7416201}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#c80181",
+            "Name": "Magenta",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PETG",
+            "uuid": "{741fc13d-249e-4b59-832a-f82151b3c01d}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#9650d4",
+            "Name": "Purple",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "TPU",
+            "uuid": "{435b1ad0-b150-444c-bf2f-30492b3d5963}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#afb6be",
+            "Name": "Rock White",
+            "Owned": false,
+            "Transmissivity": 5.1,
+            "Type": "PETG",
+            "uuid": "{687c639d-e237-414f-9927-e177858d2f58}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#63646b",
+            "Name": "Space Gray",
+            "Owned": false,
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{eab6b82a-a2d4-458e-b3a9-62a2ef88a536}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#212e3a",
+            "Name": "Sparkle Blue",
+            "Owned": false,
+            "Transmissivity": 2.2,
+            "Type": "PETG",
+            "uuid": "{6c4af375-d8d8-4e87-8809-593f314448b2}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#142b4b",
+            "Name": "Starry Blue",
+            "Owned": false,
+            "Transmissivity": 0.1,
+            "Type": "PETG",
+            "uuid": "{7b4ad4cd-6d82-46a2-8488-fbd1332de67f}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ffffff",
+            "Name": "Transparent",
+            "Owned": false,
+            "Transmissivity": 100,
+            "Type": "PETG",
+            "uuid": "{766b5efe-e467-4e67-b6b1-698ce2d97623}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#09048e",
+            "Name": "Transparent Blue",
+            "Owned": false,
+            "Transmissivity": 7.3,
+            "Type": "PETG",
+            "uuid": "{1faa665c-fb06-4342-afff-75ebce63f571}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#019a45",
+            "Name": "Transparent Green",
+            "Owned": false,
+            "Transmissivity": 16.2,
+            "Type": "PETG",
+            "uuid": "{520ebefc-5473-4614-a5c1-6004362b244a}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ce333e",
+            "Name": "Transparent Red",
+            "Owned": false,
+            "Transmissivity": 23,
+            "Type": "PETG",
+            "uuid": "{86c44906-b7b7-4ccc-988d-fea95b4eaae1}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#785c50",
+            "Name": "Brown",
+            "Owned": false,
+            "Transmissivity": 1.6,
+            "Type": "PLA",
+            "uuid": "{04d661b2-97c9-4d11-8644-ad495ed5d004}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#4c4e52",
+            "Name": "Cement Gray",
+            "Owned": false,
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{294c6f64-0119-4d57-b887-c47421e0ead7}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#57361c",
+            "Name": "Chocolate",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{cca09c72-82b2-4fe1-afe2-8e5432a65930}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#658697",
+            "Name": "Gray Blue",
+            "Owned": false,
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{a4960362-d5c8-4a77-86be-c728eb6d6813}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f3d538",
+            "Name": "Highlight Yellow",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{22feefe5-30fd-4a64-83dc-f79a1e5dc77a}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#bcd69b",
+            "Name": "Light Green",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{fa8bc033-09c1-44f9-80f1-7a77043da13f}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f4d563",
+            "Name": "Light Yellow",
+            "Owned": false,
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{540de9f5-0bcc-4146-890b-df39e1ba4504}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#75afcd",
+            "Name": "Morning Blue",
+            "Owned": false,
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{666bf0b8-80f0-46fb-b8e0-10c1afe5155c}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#857f03",
+            "Name": "Olive green",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{eb334278-dc9f-4948-bda9-e541dec5de61}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ec1031",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 5.4,
+            "Type": "TPU",
+            "uuid": "{02c9cc03-78f6-4d45-9ea9-96d2f736a248}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#533426",
+            "Name": "Royal Copper",
+            "Owned": false,
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{73d1e025-a23e-4a34-8619-71b548d4a384}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ff699b",
+            "Name": "Bright Pink",
+            "Owned": false,
+            "Transmissivity": 4.9,
+            "Type": "TPU",
+            "uuid": "{85a86419-ec6e-45f0-bc7e-4f64ea65460d}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#738787",
+            "Name": "Night Gray",
+            "Owned": false,
+            "Transmissivity": 1.3,
+            "Type": "TPU",
+            "uuid": "{c96ac39b-546e-401e-9e8f-6fac75af10f6}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#621322",
+            "Name": "Wine",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{6dc7a4e5-fcfc-46fa-81f6-7c195a509111}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ca6828",
+            "Name": "Rock Mars Red",
+            "Owned": false,
+            "Tags": [],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{e33d9559-52e5-41b1-a9fc-96214d95ddca}"
+        }
+    ]
+}

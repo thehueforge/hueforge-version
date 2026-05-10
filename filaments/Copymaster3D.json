@@ -1,0 +1,256 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#f5ba89",
+            "Name": "Apricot",
+            "Owned": false,
+            "Transmissivity": 7.2,
+            "Type": "PLA",
+            "uuid": "{a1872665-7e61-46a6-9d85-8850538f7f81}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#0ab9e9",
+            "Name": "Baby Blue",
+            "Owned": false,
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{d6dd0cd4-ae51-4938-8062-e957961fde69}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#111113",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{d224e7b3-600e-4764-94e8-4cb243f81b77}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#653a21",
+            "Name": "Espresso",
+            "Owned": false,
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{9c348edc-3f64-4036-99d6-045e6832676c}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#646c74",
+            "Name": "Grey",
+            "Owned": false,
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{6e6f752c-c11e-49a6-b7d4-b73b277924f2}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#d8af5b",
+            "Name": "Latte",
+            "Owned": false,
+            "Transmissivity": 3.9,
+            "Type": "PLA",
+            "uuid": "{a209fa85-fc40-45c3-b8b0-8b16a25273bd}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#fff016",
+            "Name": "Mellow Yellow",
+            "Owned": false,
+            "Transmissivity": 6.2,
+            "Type": "PLA",
+            "uuid": "{d51508c2-7855-4d5c-b964-a768f24f7459}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#16bc8d",
+            "Name": "Mint Green",
+            "Owned": false,
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{cb05ba2a-cc1a-4ad9-ba54-620f333dba18}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#8d50bc",
+            "Name": "Perfect Purple",
+            "Owned": false,
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{77c0c26a-ca28-46d4-b85e-25d73f66ba8c}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#df5eb4",
+            "Name": "Pretty Pink",
+            "Owned": false,
+            "Transmissivity": 4.2,
+            "Type": "PLA",
+            "uuid": "{c266f6c8-5a21-445d-bf00-f6246657b675}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#ff511e",
+            "Name": "Pumpkin Orange",
+            "Owned": false,
+            "Transmissivity": 6.6,
+            "Type": "PLA",
+            "uuid": "{78c7d10f-eee4-4401-a2ac-aa63dbcb3adf}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#e11021",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{71a27cfe-8f80-4f22-bee0-24a2c19e4b91}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#222ed2",
+            "Name": "Royal Blue",
+            "Owned": false,
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{ebd3241e-aeb2-487e-9be0-a8dfc5ed3183}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#1dc11c",
+            "Name": "Slime Green",
+            "Owned": false,
+            "Transmissivity": 3.8,
+            "Type": "PLA",
+            "uuid": "{dc4e44c8-1e91-4a09-aca7-d57dd8343229}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#c4080c",
+            "Name": "Twinkling Red",
+            "Owned": false,
+            "Transmissivity": 14.9,
+            "Type": "PLA",
+            "uuid": "{f11d9c0f-0f5a-4ee7-8e41-75dbce56393d}"
+        },
+        {
+            "Brand": "Copymaster 3D",
+            "Color": "#ececec",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5.9,
+            "Type": "PLA",
+            "uuid": "{2309eb05-c382-49ba-9885-bcdd8e5e46a2}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#0ab9e9",
+            "Name": "Baby Blue",
+            "Owned": false,
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{10962d6e-75bf-4a7b-a6e8-b027ab350334}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#111113",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{fd33c7c7-a6fe-4f37-9657-b804e54f1ed1}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#653a21",
+            "Name": "Coffee",
+            "Owned": false,
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{4e8dc952-4911-4701-a11b-82a4af65bf56}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#222ed2",
+            "Name": "Dark Blue",
+            "Owned": false,
+            "Transmissivity": 2.3,
+            "Type": "PLA",
+            "uuid": "{ee5930ce-3a00-470c-9609-3cec687ddd5b}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#1dc11c",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{de2311a0-43b3-4edf-9e56-d09a5bbb64a3}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#646c74",
+            "Name": "Grey",
+            "Owned": false,
+            "Transmissivity": 1.3,
+            "Type": "PLA",
+            "uuid": "{181e31d1-80df-419e-bab8-72fa2b65c877}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#fff016",
+            "Name": "Mellow Yellow",
+            "Owned": false,
+            "Transmissivity": 6.3,
+            "Type": "PLA",
+            "uuid": "{44cd2b36-3a58-44a8-8352-acb955f042a8}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#16bc8d",
+            "Name": "Mint Green",
+            "Owned": false,
+            "Transmissivity": 2.7,
+            "Type": "PLA",
+            "uuid": "{bb8ad6a3-7750-4901-b99c-624bd581abbb}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#ff511e",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 7.3,
+            "Type": "PLA",
+            "uuid": "{583ef8c6-9bf9-4b21-a632-a38a178d9387}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#df5eb4",
+            "Name": "Pretty Pink",
+            "Owned": false,
+            "Transmissivity": 3.9,
+            "Type": "PLA",
+            "uuid": "{772d0092-1a45-4f5f-985b-a180971a7f86}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#e11021",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4.1,
+            "Type": "PLA",
+            "uuid": "{b6cb66d4-233e-43ac-8527-c1279588beda}"
+        },
+        {
+            "Brand": "Copymaster 3D TURBO",
+            "Color": "#ececec",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 10.8,
+            "Type": "PLA",
+            "uuid": "{08004129-881e-4579-9459-ece8fddec474}"
+        }
+    ]
+}
