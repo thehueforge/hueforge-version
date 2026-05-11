@@ -1,14 +1,16 @@
 #!/usr/bin/env bash
 # Pre-commit hook: regenerate filament_libraries.json whenever any file
-# under filaments/ is staged for commit.
+# under filaments/ is staged, OR when filament_libraries.json itself is
+# staged (catches manually-generated or stale manifests).
 
 FILAMENTS_DIR="filaments"
 MANIFEST="filament_libraries.json"
 SCRIPT="generate_filament_manifest.py"
 
-# Check if any staged files touch the filaments directory
-if git diff --cached --name-only | grep -q "^${FILAMENTS_DIR}/"; then
-    echo "[pre-commit] filaments/ changed — regenerating ${MANIFEST}..."
+staged=$(git diff --cached --name-only)
+
+if echo "$staged" | grep -qE "^${FILAMENTS_DIR}/|^${MANIFEST}$"; then
+    echo "[pre-commit] filaments changed — regenerating ${MANIFEST}..."
 
     if ! command -v python3 &>/dev/null && ! command -v python &>/dev/null; then
         echo "[pre-commit] ERROR: python not found. Install Python 3 and re-commit."

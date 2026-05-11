@@ -2,12 +2,11 @@
 """
 generate_filament_manifest.py
 
-Run from the root of the hueforge-version repo after copying (or symlinking)
-vendor library JSON files into a subfolder:
+Scans filaments/vendor/ and filaments/community/ (if present) and writes
+filament_libraries.json.  Run from the repo root:
 
-    python generate_filament_manifest.py [--dir filaments] [--base-url https://version.thehueforge.com/filaments]
-
-Outputs filament_libraries.json in the current directory.
+    python generate_filament_manifest.py
+    python generate_filament_manifest.py --dir filaments --base-url https://version.thehueforge.com/filaments --out filament_libraries.json
 """
 
 import argparse
@@ -15,10 +14,15 @@ import hashlib
 import json
 import pathlib
 import sys
+import urllib.parse
 
 
 BASE_URL_DEFAULT = "https://version.thehueforge.com/filaments"
-VENDOR_DIR_DEFAULT = "filaments"
+FILAMENTS_DIR_DEFAULT = "filaments"
+CATEGORIES = [
+    ("vendor",    "Vendor Libraries"),
+    ("community", "Community Libraries"),
+]
 
 
 def sha256_of_file(path: pathlib.Path) -> str:
@@ -35,50 +39,45 @@ def filament_count(path: pathlib.Path) -> int:
         return 0
 
 
-def vendor_name(path: pathlib.Path) -> str:
-    # Use the stem (filename without extension) as the display name.
-    # e.g. "3D-Fuel Filaments.json" → "3D-Fuel Filaments"
-    return path.stem
-
-
 def main():
     parser = argparse.ArgumentParser(description="Generate filament_libraries.json manifest")
-    parser.add_argument(
-        "--dir", default=VENDOR_DIR_DEFAULT,
-        help=f"Directory containing vendor library JSON files (default: {VENDOR_DIR_DEFAULT})"
-    )
-    parser.add_argument(
-        "--base-url", default=BASE_URL_DEFAULT,
-        help=f"Base URL where files will be hosted (default: {BASE_URL_DEFAULT})"
-    )
-    parser.add_argument(
-        "--out", default="filament_libraries.json",
-        help="Output manifest filename (default: filament_libraries.json)"
-    )
+    parser.add_argument("--dir", default=FILAMENTS_DIR_DEFAULT,
+                        help=f"Base filaments directory (default: {FILAMENTS_DIR_DEFAULT})")
+    parser.add_argument("--base-url", default=BASE_URL_DEFAULT,
+                        help=f"Base URL where files are hosted (default: {BASE_URL_DEFAULT})")
+    parser.add_argument("--out", default="filament_libraries.json",
+                        help="Output manifest filename (default: filament_libraries.json)")
     args = parser.parse_args()
 
-    vendor_dir = pathlib.Path(args.dir)
-    if not vendor_dir.is_dir():
-        print(f"ERROR: directory not found: {vendor_dir}", file=sys.stderr)
-        sys.exit(1)
-
-    files = sorted(vendor_dir.glob("*.json"))
-    if not files:
-        print(f"No .json files found in {vendor_dir}", file=sys.stderr)
+    base_dir = pathlib.Path(args.dir)
+    if not base_dir.is_dir():
+        print(f"ERROR: directory not found: {base_dir}", file=sys.stderr)
         sys.exit(1)
 
     base_url = args.base_url.rstrip("/")
     libraries = []
-    for f in files:
-        filename = f.name
-        libraries.append({
-            "name": vendor_name(f),
-            "filename": filename,
-            "url": f"{base_url}/{filename}",
-            "sha256": sha256_of_file(f),
-            "filament_count": filament_count(f),
-        })
-        print(f"  {filename:40s}  {filament_count(f):4d} filaments")
+
+    for category_key, category_label in CATEGORIES:
+        subdir = base_dir / category_key
+        if not subdir.is_dir():
+            continue
+        files = sorted(subdir.glob("*.json"))
+        for f in files:
+            count = filament_count(f)
+            libraries.append({
+                "name":           f.stem,
+                "filename":       f.name,
+                "category":       category_key,
+                "url":            f"{base_url}/{category_key}/{urllib.parse.quote(f.name)}",
+                "sha256":         sha256_of_file(f),
+                "filament_count": count,
+            })
+            print(f"  [{category_label:20s}]  {f.name:45s}  {count:4d} filaments")
+
+    if not libraries:
+        print(f"No .json files found under {base_dir}/vendor/ or {base_dir}/community/",
+              file=sys.stderr)
+        sys.exit(1)
 
     manifest = {"version": 1, "libraries": libraries}
     out_path = pathlib.Path(args.out)
