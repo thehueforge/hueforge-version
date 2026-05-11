@@ -23,9 +23,9 @@
       "filament_count": 5
     },
     {
-      "name": "COEX 3D PLA FILAMENT",
-      "filename": "COEX 3D PLA FILAMENT.json",
-      "url": "https://version.thehueforge.com/filaments/COEX 3D PLA FILAMENT.json",
+      "name": "COEX 3D",
+      "filename": "COEX 3D.json",
+      "url": "https://version.thehueforge.com/filaments/COEX 3D.json",
       "sha256": "4339013a918a54a3473762bda824fc7ee8ff489c411d489a9e052d86518b072c",
       "filament_count": 45
     },
