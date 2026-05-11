@@ -6,7 +6,7 @@
       "filename": "3D-Fuel Filaments.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/3D-Fuel%20Filaments.json",
-      "sha256": "93cbb6379106e32d6f02f6e8c441524b3234970b99908b5679addc68a220de99",
+      "sha256": "00141daa307e5b3a05a959033abe1771342ff61b45a894c556dd69d1763e612c",
       "filament_count": 120
     },
     {
@@ -14,7 +14,7 @@
       "filename": "BambuLab.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/BambuLab.json",
-      "sha256": "78e69e59aa6768b151a5e13990045dfcc28ba7cbe570cdadf118f36e2df9f2a3",
+      "sha256": "b4d6a518cc408231c1f21abc3344f2a6c90fd1601e270477a4c88bc0e148d793",
       "filament_count": 83
     },
     {
@@ -22,7 +22,7 @@
       "filename": "Chrominal.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Chrominal.json",
-      "sha256": "935e677e03857cc486497174f8ea80d8b621ddeca4c44f18a3e5f8722b427072",
+      "sha256": "b52fd5553cce41904b06e01d40b13072854461f90021a64d351c5da8999e3424",
       "filament_count": 5
     },
     {
@@ -30,7 +30,7 @@
       "filename": "COEX 3D.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/COEX%203D.json",
-      "sha256": "4339013a918a54a3473762bda824fc7ee8ff489c411d489a9e052d86518b072c",
+      "sha256": "b3d4e1f5f78810e5c4bce5abcf1f9af264efa88e9071b219ae8a8b5ca8c230bd",
       "filament_count": 45
     },
     {
@@ -38,7 +38,7 @@
       "filename": "Copymaster3D.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Copymaster3D.json",
-      "sha256": "29c05bd8a790add99824a2a80a12d7e7e035aa235b6c5062aa40fafee485fd0c",
+      "sha256": "96d3b1372c6b8efcb90148101f42e2924b7386a67a4cf77747d46fe6ccb2c035",
       "filament_count": 28
     },
     {
@@ -46,7 +46,7 @@
       "filename": "Creality.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Creality.json",
-      "sha256": "d68a30ebd6ae263a4a24ff534ddc08b8a9e0725f6dcca6ca714447ef225fa2c1",
+      "sha256": "9ae2f2bd434f29c33cdfda899c2ee6d632e5a0500cc2089445d5d4389a151c1a",
       "filament_count": 4
     },
     {
@@ -54,7 +54,7 @@
       "filename": "eSun.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/eSun.json",
-      "sha256": "6327683fda64501ccbec8c7a44da4f4284ef5a21612bbe9bc7d168cab1621ed7",
+      "sha256": "a8d89ef5806a22bb88b5337d2d40e95c2c6f5a31770a13616ca9bd428a6b06f6",
       "filament_count": 9
     },
     {
@@ -62,7 +62,7 @@
       "filename": "Filamentum.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Filamentum.json",
-      "sha256": "ad096900bf9b1ca651e793c2d5066463151f571d1d843a925dd68d8cdcd4dd82",
+      "sha256": "ddbfcc1fc676e53c16948ce4f989d2478e24a8f04475b6d31b2437847608d3be",
       "filament_count": 19
     },
     {
@@ -70,7 +70,7 @@
       "filename": "IIIDMax.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/IIIDMax.json",
-      "sha256": "d66ecd792dc7741cfc5d08b798333f6cb19395fb5d1f35a399b22252a7f9e9b5",
+      "sha256": "85994ceab13cb5b78ac596fa18634fbbef3574d37ddc681874c0793b1f417f26",
       "filament_count": 39
     },
     {
@@ -78,7 +78,7 @@
       "filename": "Kexcelled.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Kexcelled.json",
-      "sha256": "3c9a65c1f4a83c5e4e54ad485426c63b53c325535f097d31fe04830673880bcb",
+      "sha256": "de6e4f0fb3ab7bda27a60f2ca753c683329f9aaf45d7d88627bd2b3ca4f72caa",
       "filament_count": 35
     },
     {
@@ -86,7 +86,7 @@
       "filename": "Kingroon.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Kingroon.json",
-      "sha256": "527771839fc379848e72fb5f21d69440378f50fa07042b802f8aa2a0e44343fa",
+      "sha256": "8f9f6c6c9ed84d1392a4ec09dccb6c916855cb29d3e778e56e7d1c17b15875ea",
       "filament_count": 12
     },
     {
@@ -94,7 +94,7 @@
       "filename": "Numakers.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Numakers.json",
-      "sha256": "337493aa5055f357c58c4731d7759c7439722d7e5ca4a6a3568b02bd38614734",
+      "sha256": "037ea2c518c541f3b2a84d9c9f4ebe14028ba0407c6e1ac1b248ab5efcb17875",
       "filament_count": 34
     },
     {
@@ -102,7 +102,7 @@
       "filename": "Overture.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Overture.json",
-      "sha256": "01099b38872e35ec48e8794112b3de74464abba55f8e369a010921e76526eda0",
+      "sha256": "d55090c8180058d4e4f1d26f95162acdf395beec1da656d84ecd55eb0e4da1e2",
       "filament_count": 63
     },
     {
@@ -110,7 +110,7 @@
       "filename": "Panchroma.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Panchroma.json",
-      "sha256": "61a9e06598ab2b33171aa98343eb802d553e79f55df86812e7a256b104ba4b9a",
+      "sha256": "212897b869b9e80ca7f5280f916fcc9981e81c84b7c440cc7495185c019080c9",
       "filament_count": 34
     },
     {
@@ -118,7 +118,7 @@
       "filename": "Paramount3D.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Paramount3D.json",
-      "sha256": "6be348610ff475f41253ff91205e0b7a2dff904c1da0ce72b1c804bbab4e55f3",
+      "sha256": "8859abff704f419874d79d0d57d4dd0fe46b76431e993e9b33908d904463bc8d",
       "filament_count": 40
     },
     {
@@ -126,7 +126,7 @@
       "filename": "Polymaker.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Polymaker.json",
-      "sha256": "4ed586d74cbd5559701451127abe1a512a952386155880f752b1f004a2b913ac",
+      "sha256": "bf53fde512f2e782d1faa993d8510fedf299d1633d2a4bcee0b5cadecc7bde1c",
       "filament_count": 141
     },
     {
@@ -134,7 +134,7 @@
       "filename": "PrintedSolid.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/PrintedSolid.json",
-      "sha256": "646a7252444ae128ea817285a125b82c8ca6086289172b145a94b4e1046ffd5a",
+      "sha256": "8371e63150486f816eabb7824b2e81bdc54bad7f67bc5eb2d63aaae792a4b3cc",
       "filament_count": 49
     },
     {
@@ -142,7 +142,7 @@
       "filename": "Protopasta.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Protopasta.json",
-      "sha256": "77fa6fa7fb26cd075f09a9fab6f4bd1183b5c06bbfbbe399add18f08994ceca5",
+      "sha256": "c1b1e1fe858bb084a67a6458436e67afe7a06650d36bbde2a88e5f0edb5e8d38",
       "filament_count": 33
     },
     {
@@ -150,7 +150,7 @@
       "filename": "Prusament.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Prusament.json",
-      "sha256": "833e35c1495112e3bec6658a39061b9ad3484da2d055e9085a35571b302ea41d",
+      "sha256": "b1b99290b3f68747b9c28d1e8807d5251123c664c24a63e5224f2a044dd0f1a3",
       "filament_count": 76
     },
     {
@@ -158,7 +158,7 @@
       "filename": "Sunlu.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Sunlu.json",
-      "sha256": "e6f460897611cdb8ce14933cb1c3bf79c0406eb57f15b2f4dc594f3999b56aee",
+      "sha256": "9775a598045a2bb4d45929205b18119310a8009f5d8dfd2065a459a1bb4885d3",
       "filament_count": 37
     }
   ]
