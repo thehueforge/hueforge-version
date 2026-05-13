@@ -13,6 +13,7 @@ import argparse
 import hashlib
 import json
 import pathlib
+import re
 import sys
 import urllib.parse
 
@@ -23,6 +24,16 @@ CATEGORIES = [
     ("vendor",    "Vendor Libraries"),
     ("community", "Community Libraries"),
 ]
+
+
+def strip_owned(path: pathlib.Path) -> bool:
+    """Remove Owned=true from every filament entry; write back if changed. Returns True if modified."""
+    text = path.read_text(encoding="utf-8")
+    new_text, n = re.subn(r'("Owned"\s*:\s*)true', r'\1false', text)
+    if n:
+        path.write_text(new_text, encoding="utf-8")
+        print(f'  stripped Owned=true ({n}) from {path.name}')
+    return n > 0
 
 
 def sha256_of_file(path: pathlib.Path) -> str:
@@ -63,6 +74,7 @@ def main():
             continue
         files = sorted(subdir.glob("*.json"))
         for f in files:
+            strip_owned(f)
             count = filament_count(f)
             libraries.append({
                 "name":           f.stem,

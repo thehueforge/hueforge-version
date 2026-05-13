@@ -1,29 +1,49 @@
-#!/usr/bin/env bash
-# Pre-commit hook: regenerate filament_libraries.json whenever any file
-# under filaments/ is staged, OR when filament_libraries.json itself is
-# staged (catches manually-generated or stale manifests).
+#!/bin/sh
+# 1. Strip Owned=true from staged filament JSON files.
+# 2. Regenerate filament_libraries.json whenever filament files change.
+#
+# Install once per clone:
+#   git config core.hooksPath .githooks
 
-FILAMENTS_DIR="filaments"
-MANIFEST="filament_libraries.json"
-SCRIPT="generate_filament_manifest.py"
+python3 - <<'PYEOF'
+import re, subprocess, sys
+from pathlib import Path
 
-staged=$(git diff --cached --name-only)
+staged = subprocess.run(
+    ['git', 'diff', '--cached', '--name-only', '--diff-filter=ACM'],
+    capture_output=True, text=True
+).stdout.splitlines()
 
-if echo "$staged" | grep -qE "^${FILAMENTS_DIR}/|^${MANIFEST}$"; then
-    echo "[pre-commit] filaments changed — regenerating ${MANIFEST}..."
+# Step 1: strip Owned=true from staged filament JSON files
+for path in staged:
+    if not path.endswith('.json'):
+        continue
+    p = Path(path)
+    if not p.exists():
+        continue
+    text = p.read_text(encoding='utf-8')
+    if '"Filaments"' not in text:
+        continue
+    new_text, n = re.subn(r'("Owned"\s*:\s*)true', r'\1false', text)
+    if n:
+        p.write_text(new_text, encoding='utf-8')
+        subprocess.run(['git', 'add', path], check=True)
+        print(f'pre-commit: cleared Owned=true in {path} ({n} entr{"y" if n == 1 else "ies"})')
 
-    if ! command -v python3 &>/dev/null && ! command -v python &>/dev/null; then
-        echo "[pre-commit] ERROR: python not found. Install Python 3 and re-commit."
-        exit 1
-    fi
+# Step 2: regenerate manifest if any filament files (or the manifest itself) were staged
+FILAMENTS_DIR = 'filaments'
+MANIFEST = 'filament_libraries.json'
 
-    PYTHON=$(command -v python3 || command -v python)
-
-    if ! "$PYTHON" "${SCRIPT}" --dir "${FILAMENTS_DIR}" --out "${MANIFEST}"; then
-        echo "[pre-commit] ERROR: manifest generation failed. Aborting commit."
-        exit 1
-    fi
-
-    git add "${MANIFEST}"
-    echo "[pre-commit] ${MANIFEST} updated and staged."
-fi
+needs_regen = any(
+    p.startswith(FILAMENTS_DIR + '/') or p == MANIFEST
+    for p in staged
+)
+if needs_regen:
+    print(f'pre-commit: filaments changed — regenerating {MANIFEST}...')
+    result = subprocess.run(['python3', 'generate_filament_manifest.py'], capture_output=False)
+    if result.returncode != 0:
+        print(f'pre-commit: ERROR: manifest generation failed. Aborting commit.', file=sys.stderr)
+        sys.exit(1)
+    subprocess.run(['git', 'add', MANIFEST], check=True)
+    print(f'pre-commit: {MANIFEST} updated and staged.')
+PYEOF
