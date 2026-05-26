@@ -122,7 +122,7 @@
             "Color": "#e7ceb5",
             "Name": "Beige",
             "Owned": false,
-            "Transmissivity": 8,
+            "Transmissivity": 3.5,
             "Type": "PLA",
             "uuid": "{0e78ff37-53fa-40b4-a752-7fd38f38f142}"
         },
