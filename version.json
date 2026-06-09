@@ -1,7 +1,7 @@
 {
-	"releaseVersion": "0.9.4",
+	"releaseVersion": "0.9.4.1",
 	"betaVersion": "",
-	"releaseNotes": "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-094-release-notes?r=27ljby'>Release Notes</a>",
+	"releaseNotes": "<a href='https://open.substack.com/pub/hornandrhode/p/release-notes-for-v0941'>Release Notes</a>",
 	"plugins": [
 		{
 			"name": "HugeForgePlugin",
