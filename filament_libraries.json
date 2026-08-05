@@ -18,6 +18,14 @@
       "filament_count": 83
     },
     {
+      "name": "Bulldog-3D",
+      "filename": "Bulldog-3D.json",
+      "category": "vendor",
+      "url": "https://version.thehueforge.com/filaments/vendor/Bulldog-3D.json",
+      "sha256": "d856b786d6ee0960618659c60a47f61f0e606b4eb2bc53f9a69971e0e8c8ab46",
+      "filament_count": 29
+    },
+    {
       "name": "Chrominal",
       "filename": "Chrominal.json",
       "category": "vendor",

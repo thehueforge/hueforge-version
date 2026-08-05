@@ -1,0 +1,323 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#61452d",
+            "Name": "Antique Brass",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{ef96671a-994f-466d-bb0c-2b953e700733}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#6e7476",
+            "Name": "Concrete Grey",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{2d8574a1-022a-41db-9046-c1e1f498e307}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fd6e70",
+            "Name": "Coral Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 11,
+            "Type": "PLA",
+            "uuid": "{1be2951b-938e-48f9-911e-b6f30c5774ee}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#7abd37",
+            "Name": "Electric Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{e30e3bc4-7d78-42e8-9211-328a9e99aff5}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#30201d",
+            "Name": "Espresso Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{49528475-7f2a-45c7-80fe-53b6fb55f74d}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#324f3b",
+            "Name": "Forest Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{d3206fb0-96dd-4411-9768-3bdea95cc851}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#ffffff",
+            "Name": "Imperial White",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{a6a2025a-d590-4d32-b740-c6763cbaeef7}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#2c6430",
+            "Name": "Jungle Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{c27f9810-cbde-48df-83d7-28726cadcbed}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#1d2b43",
+            "Name": "Midnight Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{b66e9eac-d860-4292-b31a-06e9c9ebe9f7}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#4b5135",
+            "Name": "Olive Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{dd697793-e769-43fd-8b6d-8522f116e4d7}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#cde1f1",
+            "Name": "Pastel Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{218e95a5-f414-46ac-80ab-60c9ef787511}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#ddf6d6",
+            "Name": "Pastel Green",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{1199f4a0-8aca-4f18-98b5-760cef589521}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fbdbdf",
+            "Name": "Pastel Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{7d20e65f-268d-4d85-a347-a8cda0a3ab40}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#ad88d5",
+            "Name": "Pastel Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1.6,
+            "Type": "PLA",
+            "uuid": "{5e18591d-1167-4817-ae57-1d0d84a522ab}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fdf498",
+            "Name": "Pastel Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{0550d187-9b5b-4f44-acec-2d47d8a7904a}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fdcb9d",
+            "Name": "Peach Flesh",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{9d959781-1f35-4946-969a-5aedda69d17f}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#df0d69",
+            "Name": "Purely Pink",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{eb451f37-8b96-4e13-9cf1-0e4851c696c9}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#000000",
+            "Name": "Raven Black",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{348f4d44-f885-4527-96d1-1f7e3c79904a}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#19339e",
+            "Name": "Royal Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{7d0e2679-0a26-435e-aec4-b3a46c155e32}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#682881",
+            "Name": "Royal Purple",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{046ae171-ed85-4596-b780-9c2272f45a6e}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#64302a",
+            "Name": "Rustic Copper",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{8451a011-667e-42e7-b6d7-04e2115a7a6c}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#3864ca",
+            "Name": "Sky Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{e064b86d-c5b4-4a3c-8b31-cdd9efd8f33d}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fde801",
+            "Name": "Solar Yellow",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{ba1f981c-00ba-4171-a0af-b4f030dbf6be}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#979ea2",
+            "Name": "Steel Grey",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{7709ae5f-02f8-4ae6-b660-d4156af22fd9}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#f52a0e",
+            "Name": "Sunset Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{d4709405-8e20-4701-a0f6-7081d0ce4472}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#763e13",
+            "Name": "Toffee Brown",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{41259369-933d-4b03-8c3b-4a665a97dcd9}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#e61a24",
+            "Name": "Traffic Red",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{1c6ecc76-32b8-40ee-b618-d4de913905ad}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#50bcbe",
+            "Name": "Tropical Blue",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{d7524041-8fb0-4acc-afd2-278a1f52b7d9}"
+        },
+        {
+            "Brand": "Bulldog-3D",
+            "Color": "#fd6c02",
+            "Name": "Vivid Orange",
+            "Owned": false,
+            "Tags": [
+            ],
+            "Transmissivity": 3.8,
+            "Type": "PLA",
+            "uuid": "{22aa0a55-ebc9-4329-a2ac-514e60aa6694}"
+        }
+    ]
+}
