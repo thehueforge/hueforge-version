@@ -1,7 +1,7 @@
 {
-	"releaseVersion" : "0.9.4.2",
+	"releaseVersion" : "0.9.4.3",
 	"betaVersion" : "",
-	"releaseNotes" : "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-0942-release-notes-and-whats'>Release Notes</a>",
+	"releaseNotes" : "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-v0943-bugfix-release'>Release Notes</a>",
 	"downloadUrl" :"https://shop.thehueforge.com/apps/download",
 	"plugins": [
 		{
