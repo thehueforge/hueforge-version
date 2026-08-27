@@ -9,7 +9,7 @@
 			"version": "1.1.5",
 			"minApiVersion": 2,
 			"creator": "HueForge",
-			"storeURL": "https://shop.thehueforge.com/pages/flatforge-plugin",
+			"storeURL": "https://shop.thehueforge.com/pages/hugeforge",
 			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		},
 		{
@@ -17,7 +17,7 @@
 			"version": "1.1.5",
 			"minApiVersion": 2,
 			"creator": "HueForge",
-			"storeURL": "https://shop.thehueforge.com/products/hugeforge",
+			"storeURL": "https://shop.thehueforge.com/products/flatforge-plugin",
 			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		},
 		{
