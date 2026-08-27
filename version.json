@@ -10,7 +10,7 @@
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/pages/flatforge-plugin",
-			"downloadUrl": "https://shop.thehueforge.com/apps/download"
+			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		},
 		{
 			"name": "FlatForgePlugin",
@@ -18,7 +18,7 @@
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/products/hugeforge",
-			"downloadUrl": "https://shops.thehueforge.com/apps/download"
+			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		},
 		{
 			"name": "ColorDropPlugin",
@@ -26,7 +26,7 @@
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/pages/colordrop-plugin",
-			"downloadUrl": "https://shops.thehueforge.com/apps/download"
+			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		},
 		{
 			"name": "ThreeMFExportPlugin",
@@ -34,7 +34,7 @@
 			"minApiVersion": 2,
 			"creator": "Additive Atom",
 			"storeURL": "https://shop.thehueforge.com/pages/3mf-plugin",
-			"downloadUrl": "https://shops.thehueforge.com/apps/download"
+			"downloadUrl": "https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload"
 		}
 	]
 }
