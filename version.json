@@ -2,7 +2,7 @@
 	"releaseVersion" : "0.9.4.3",
 	"betaVersion" : "",
 	"releaseNotes" : "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-v0943-bugfix-release'>Release Notes</a>",
-	"downloadUrl" :"https://shop.thehueforge.com/apps/download",
+	"downloadUrl" :"https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload",
 	"plugins": [
 		{
 			"name": "HugeForgePlugin",
