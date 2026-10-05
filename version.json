@@ -38,7 +38,7 @@
 		},
 		{
 			"name": "ThreeMFExportPlugin",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"minApiVersion": 2,
 			"creator": "Additive Atom",
 			"storeURL": "https://shop.thehueforge.com/pages/3mf-plugin",
