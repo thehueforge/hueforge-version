@@ -9,6 +9,16 @@ param(
 
 $ErrorActionPreference = "Stop"
 
+# Windows PowerShell 5.1 does not load the PKCS types by default; they live in the
+# System.Security assembly (PowerShell 7 ships them as System.Security.Cryptography.Pkcs).
+try { Add-Type -AssemblyName System.Security } catch { }
+if (-not ("System.Security.Cryptography.Pkcs.SignedCms" -as [type])) {
+    try { Add-Type -AssemblyName System.Security.Cryptography.Pkcs } catch { }
+}
+if (-not ("System.Security.Cryptography.Pkcs.SignedCms" -as [type])) {
+    throw "System.Security.Cryptography.Pkcs is not available in this PowerShell."
+}
+
 if (-not (Test-Path $Json)) { throw "List file not found: $Json" }
 
 $cert = Get-ChildItem Cert:\CurrentUser\My -CodeSigningCert |
