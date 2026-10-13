@@ -1,12 +1,12 @@
 {
-	"releaseVersion" : "0.9.4.3",
+	"releaseVersion" : "0.9.4.4",
 	"betaVersion" : "",
-	"releaseNotes" : "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-v0943-bugfix-release'>Release Notes</a>",
+	"releaseNotes" : "<a href='https://open.substack.com/pub/hornandrhode/p/hueforge-v0944-release-notes'>Release Notes</a>",
 	"downloadUrl" :"https://shop.thehueforge.com/customer_authentication/login?return_to=%2Fapps%2Fdownload",
 	"plugins": [
 		{
 			"name": "HugeForgePlugin",
-			"version": "1.1.5",
+			"version": "1.2.0",
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/pages/hugeforge",
@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "ColorSmithPlugin",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"minApiVersion": 4,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/pages/colorsmith-plugin",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "FlatForgePlugin",
-			"version": "1.1.5",
+			"version": "1.2.0",
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/products/flatforge-plugin",
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "ColorDropPlugin",
-			"version": "1.1.0",
+			"version": "1.1.2",
 			"minApiVersion": 2,
 			"creator": "HueForge",
 			"storeURL": "https://shop.thehueforge.com/pages/colordrop-plugin",
