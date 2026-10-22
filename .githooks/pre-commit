@@ -1,6 +1,7 @@
 #!/bin/sh
 # 1. Strip Owned=true from staged filament JSON files.
 # 2. Regenerate filament_libraries.json whenever filament files change.
+# 3. Regenerate libraries.json whenever anything under libraries/ changes.
 #
 # Install once per clone:
 #   git config core.hooksPath .githooks
@@ -46,4 +47,23 @@ if needs_regen:
         sys.exit(1)
     subprocess.run(['git', 'add', MANIFEST], check=True)
     print(f'pre-commit: {MANIFEST} updated and staged.')
+
+# Step 3: regenerate libraries.json (library hot-update manifest) if any library payload,
+# meta or contract under libraries/ -- including a deletion -- or the manifest itself was
+# staged. sys.executable is whichever Python runs this hook (python3 or python).
+LIBRARIES_DIR = 'libraries'
+LIB_MANIFEST = 'libraries.json'
+
+all_staged = subprocess.run(
+    ['git', 'diff', '--cached', '--name-only'],
+    capture_output=True, text=True
+).stdout.splitlines()
+if any(p.startswith(LIBRARIES_DIR + '/') or p == LIB_MANIFEST for p in all_staged):
+    print(f'pre-commit: libraries changed — regenerating {LIB_MANIFEST}...')
+    result = subprocess.run([sys.executable, 'generate_library_manifest.py'])
+    if result.returncode != 0:
+        print(f'pre-commit: ERROR: library manifest generation failed. Aborting commit.', file=sys.stderr)
+        sys.exit(1)
+    subprocess.run(['git', 'add', LIB_MANIFEST], check=True)
+    print(f'pre-commit: {LIB_MANIFEST} updated and staged.')
 PYEOF
