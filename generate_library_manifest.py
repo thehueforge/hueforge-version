@@ -9,7 +9,7 @@ Run from the repo root (the pre-commit hook does this automatically):
     python generate_library_manifest.py
     python generate_library_manifest.py --base-url https://version.thehueforge.com/libraries --out libraries.json
 
-Payload zips are produced by tools/release/publish_library.py in the HueForge repo, which
+Payload zips are produced by Tools/release/publish_library.py in the HueForge repo, which
 also checks them against libraries/contracts/<hostVersion>/. Never edit libraries.json by hand.
 """
 
