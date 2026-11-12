@@ -786,6 +786,69 @@
             "Transmissivity": 4.5,
             "Type": "PETG",
             "uuid": "{d585a8f2-eafc-4b10-80c5-9a1e380a28f3}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#c00d1e",
+            "Name": "Red",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{4fb13a86-6187-4300-95f2-ac2c877aae5e}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#00358e",
+            "Name": "Blue",
+            "Owned": false,
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{766f745e-c390-4c9d-8653-b16db19a1228}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#fce300",
+            "Name": "Yellow",
+            "Owned": false,
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{3d555b4e-0304-423a-b0b7-2a09bbaf8186}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#8e9089",
+            "Name": "Gray",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{03b7beb6-5f62-4852-a70a-a0af973bc9b7}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#4c5f71",
+            "Name": "Blue Gray",
+            "Owned": false,
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{d8613aaf-41c3-4b82-a885-402554966333}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#003b3b",
+            "Name": "Green",
+            "Owned": false,
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{beebebca-114a-49ad-a581-c72a369ccaa4}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ff6a13",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{7ef6136d-ae6c-47fa-96df-9a130cfe5855}"
         }
     ]
 }

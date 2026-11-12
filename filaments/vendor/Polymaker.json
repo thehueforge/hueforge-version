@@ -1277,6 +1277,33 @@
             "Transmissivity": 5.6,
             "Type": "PLA",
             "uuid": "{c798ed2c-d876-46f9-953a-9982f4d1e605}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e2dedb",
+            "Name": "White",
+            "Owned": false,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{1800e8df-9e84-7c9a-088d-ac7b98baf869}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e8e6d0",
+            "Name": "Natural",
+            "Owned": false,
+            "Transmissivity": 35,
+            "Type": "PLA",
+            "uuid": "{8bcb2c01-32eb-81f3-382d-0182d6acafed}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f67405",
+            "Name": "Orange",
+            "Owned": false,
+            "Transmissivity": 7.5,
+            "Type": "PLA",
+            "uuid": "{a51914a4-ed86-2d4a-d24c-adf6e6b78394}"
         }
     ]
 }

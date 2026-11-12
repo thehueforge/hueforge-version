@@ -14,8 +14,8 @@
       "filename": "BambuLab.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/BambuLab.json",
-      "sha256": "3e04fa7e4c28a232faaede01e0b22fb05715778db5d83cbcdfa65a6f9743cb73",
-      "filament_count": 83
+      "sha256": "38dc682244943b5d8ae417c43f31d12537db65c4078d1812725da96bde9a802b",
+      "filament_count": 90
     },
     {
       "name": "Bulldog-3D",
@@ -134,8 +134,8 @@
       "filename": "Polymaker.json",
       "category": "vendor",
       "url": "https://version.thehueforge.com/filaments/vendor/Polymaker.json",
-      "sha256": "bf53fde512f2e782d1faa993d8510fedf299d1633d2a4bcee0b5cadecc7bde1c",
-      "filament_count": 141
+      "sha256": "6ef7829d09babf92f5e19478d5048509445ddde46dbceb593d25e74419564f9c",
+      "filament_count": 144
     },
     {
       "name": "PrintedSolid",
