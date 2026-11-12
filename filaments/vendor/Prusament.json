@@ -2,7 +2,7 @@
     "Filaments": [
         {
             "Brand": "Prusament",
-            "Color": "#163f0d",
+            "Color": "#5e6345",
             "Name": "Army Green",
             "Owned": false,
             "Transmissivity": 0.4,
@@ -11,7 +11,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#25d4d6",
+            "Color": "#0082ad",
             "Name": "Azure Blue",
             "Owned": false,
             "Transmissivity": 6.6,
@@ -20,7 +20,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffbc",
+            "Color": "#a7b853",
             "Name": "Lime Green",
             "Owned": false,
             "Transmissivity": 3.5,
@@ -29,7 +29,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffa4d7",
+            "Color": "#e34a94",
             "Name": "Ms. Pink",
             "Owned": false,
             "Transmissivity": 4.1,
@@ -38,7 +38,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#c4ddc0",
+            "Color": "#aeb8c1",
             "Name": "My Silverness",
             "Owned": false,
             "Transmissivity": 1,
@@ -47,7 +47,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffff8e",
+            "Color": "#ce9f2e",
             "Name": "Oh My Gold",
             "Owned": false,
             "Transmissivity": 4.1,
@@ -56,7 +56,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#d0d7d8",
             "Name": "Pearl White",
             "Owned": false,
             "Transmissivity": 5.4,
@@ -65,7 +65,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#1067c2",
+            "Color": "#00518f",
             "Name": "Royal Blue",
             "Owned": false,
             "Transmissivity": 0.8,
@@ -74,7 +74,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#fbb556",
+            "Color": "#b38e3f",
             "Name": "Viva La Bronze",
             "Owned": false,
             "Transmissivity": 1.9,
@@ -83,7 +83,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#15ed26",
+            "Color": "#42663a",
             "Name": "Galaxy Green",
             "Owned": false,
             "Transmissivity": 3.2,
@@ -92,7 +92,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0f0939",
+            "Color": "#453a72",
             "Name": "Galaxy Purple",
             "Owned": false,
             "Transmissivity": 4.7,
@@ -101,7 +101,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#cfe3c0",
+            "Color": "#999aa0",
             "Name": "Galaxy Silver",
             "Owned": false,
             "Transmissivity": 6.4,
@@ -110,7 +110,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0a2811",
+            "Color": "#354047",
             "Name": "Gentleman's Grey",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -119,7 +119,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#c4e0c3",
+            "Color": "#9fa4a8",
             "Name": "Gravity Grey",
             "Owned": false,
             "Transmissivity": 0.7,
@@ -128,7 +128,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0a1e0b",
+            "Color": "#393c3c",
             "Name": "Jet Black",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -137,7 +137,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff0d1a",
+            "Color": "#bf2b2b",
             "Name": "Lipstick Red",
             "Owned": false,
             "Transmissivity": 3.3,
@@ -146,7 +146,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#b0b4b5",
             "Name": "Marble Grey",
             "Owned": false,
             "Transmissivity": 3.5,
@@ -155,7 +155,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0b691d",
+            "Color": "#065b4a",
             "Name": "Opal Green",
             "Owned": false,
             "Transmissivity": 4,
@@ -164,7 +164,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#cfda92",
+            "Color": "#a49d8e",
             "Name": "Pearl Mouse",
             "Owned": false,
             "Transmissivity": 2.3,
@@ -173,7 +173,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffff93",
+            "Color": "#efd00b",
             "Name": "Pineapple Yellow",
             "Owned": false,
             "Transmissivity": 7.6,
@@ -182,7 +182,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#163114",
+            "Color": "#3d3e3d",
             "Name": "Prusa Galaxy Black",
             "Owned": false,
             "Transmissivity": 0.2,
@@ -191,7 +191,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#e6eaef",
             "Name": "Pristine White",
             "Owned": false,
             "Transmissivity": 5.1,
@@ -200,7 +200,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff7238",
+            "Color": "#fe6e32",
             "Name": "Prusa Orange",
             "Owned": false,
             "Transmissivity": 6.6,
@@ -218,7 +218,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#bbff78",
+            "Color": "#70a641",
             "Name": "Simply Green",
             "Owned": false,
             "Transmissivity": 3,
@@ -227,7 +227,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#fffff7",
+            "Color": "#d9d4c6",
             "Name": "Vanilla White",
             "Owned": false,
             "Transmissivity": 7.1,
@@ -236,7 +236,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#241d0d",
+            "Color": "#482e31",
             "Name": "Premium Mystic Brown",
             "Owned": false,
             "Transmissivity": 1.8,
@@ -245,7 +245,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#3d651f",
+            "Color": "#555846",
             "Name": "Premium Mystic Green",
             "Owned": false,
             "Transmissivity": 1,
@@ -254,7 +254,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#fffff3",
+            "Color": "#ccc9c0",
             "Name": "Risotto Pigment",
             "Owned": false,
             "Transmissivity": 11,
@@ -263,7 +263,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#201c08",
+            "Color": "#674b42",
             "Name": "Algae Pigment",
             "Owned": false,
             "Transmissivity": 4.2,
@@ -272,7 +272,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#8e1012",
+            "Color": "#5e4940",
             "Name": "Wine Pigment",
             "Owned": false,
             "Transmissivity": 2.8,
@@ -281,7 +281,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#d89c43",
+            "Color": "#b37b47",
             "Name": "Corn Pigment",
             "Owned": false,
             "Transmissivity": 6.2,
@@ -290,7 +290,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0c2c11",
+            "Color": "#3f4647",
             "Name": "Anthracite Grey",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -299,7 +299,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#e32b1f",
+            "Color": "#b54230",
             "Name": "Carmine Red Transparent",
             "Owned": false,
             "Transmissivity": 6.2,
@@ -308,7 +308,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#85d1c4",
+            "Color": "#6f9aaa",
             "Name": "Chalky Blue",
             "Owned": false,
             "Transmissivity": 0.6,
@@ -317,7 +317,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#e4e7e5",
             "Name": "Clear",
             "Owned": false,
             "Transmissivity": 100,
@@ -326,7 +326,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0a1e0b",
+            "Color": "#292b2b",
             "Name": "Jet Black",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -335,7 +335,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0f8827",
+            "Color": "#007249",
             "Name": "Jungle Green",
             "Owned": false,
             "Transmissivity": 0.5,
@@ -344,7 +344,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff0d1a",
+            "Color": "#bb2e33",
             "Name": "Lipstick Red",
             "Owned": false,
             "Transmissivity": 2.8,
@@ -353,7 +353,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffbf",
+            "Color": "#f2b70a",
             "Name": "Mango Yellow",
             "Owned": false,
             "Transmissivity": 2.6,
@@ -362,7 +362,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#09200a",
+            "Color": "#303635",
             "Name": "Matte Black",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -371,7 +371,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#a6ec5f",
             "Name": "Neon Green Transparent",
             "Owned": false,
             "Transmissivity": 75,
@@ -380,7 +380,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#09deec",
+            "Color": "#194c55",
             "Name": "Ocean Blue",
             "Owned": false,
             "Transmissivity": 3,
@@ -389,7 +389,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#c0eea5",
+            "Color": "#93a683",
             "Name": "Pistachio Green",
             "Owned": false,
             "Transmissivity": 0.9,
@@ -398,7 +398,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#133112",
+            "Color": "#494547",
             "Name": "Prusa Galaxy Black",
             "Owned": false,
             "Transmissivity": 0.2,
@@ -407,7 +407,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff7e3c",
+            "Color": "#eb5405",
             "Name": "Prusa Orange",
             "Owned": false,
             "Transmissivity": 6.2,
@@ -416,7 +416,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffdb",
+            "Color": "#f17231",
             "Name": "Prusa Orange Transparent",
             "Owned": false,
             "Transmissivity": 44.2,
@@ -434,7 +434,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#e5e0e3",
             "Name": "Signal White",
             "Owned": false,
             "Transmissivity": 3.4,
@@ -443,7 +443,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffb192",
+            "Color": "#b87f6a",
             "Name": "Terracotta Light",
             "Owned": false,
             "Transmissivity": 1.5,
@@ -452,7 +452,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#071df2",
+            "Color": "#2b3b61",
             "Name": "Ultramarine Blue Transparent",
             "Owned": false,
             "Transmissivity": 8.2,
@@ -461,7 +461,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#bed2af",
+            "Color": "#95908d",
             "Name": "Urban Grey",
             "Owned": false,
             "Transmissivity": 0.5,
@@ -470,7 +470,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffff57",
+            "Color": "#9a8524",
             "Name": "Yellow Gold",
             "Owned": false,
             "Transmissivity": 9.2,
@@ -479,7 +479,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0c250d",
+            "Color": "#3b353a",
             "Name": "Carbon Fiber Black",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -488,7 +488,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#143113",
+            "Color": "#545252",
             "Name": "Tungsten 75%",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -497,7 +497,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0a1e0b",
+            "Color": "#363331",
             "Name": "V0 Jet Black",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -506,7 +506,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#dee2da",
             "Name": "V0 Natural",
             "Owned": false,
             "Transmissivity": 10.4,
@@ -578,7 +578,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0c1b0b",
+            "Color": "#292824",
             "Name": "Jet Black",
             "Owned": false,
             "Transmissivity": 0.4,
@@ -587,7 +587,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#eb141b",
+            "Color": "#d02f37",
             "Name": "Lipstick Red",
             "Owned": false,
             "Transmissivity": 2,
@@ -596,7 +596,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#d6d6cd",
             "Name": "Natural",
             "Owned": false,
             "Transmissivity": 6.5,
@@ -605,7 +605,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#122b0f",
+            "Color": "#3e413f",
             "Name": "Prusa Galaxy Black",
             "Owned": false,
             "Transmissivity": 0.1,
@@ -614,7 +614,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff8344",
+            "Color": "#f55928",
             "Name": "Prusa Orange",
             "Owned": false,
             "Transmissivity": 4.4,
@@ -623,7 +623,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#071f16",
+            "Color": "#3b4468",
             "Name": "Sapphire Blue",
             "Owned": false,
             "Transmissivity": 0.3,
@@ -632,7 +632,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#e3dfd9",
             "Name": "Signal White",
             "Owned": false,
             "Transmissivity": 2.4,
@@ -641,7 +641,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#0b230d",
+            "Color": "#24292a",
             "Name": "Jet Black",
             "Owned": false,
             "Transmissivity": 0.4,
@@ -650,7 +650,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ffffff",
+            "Color": "#dfdfd3",
             "Name": "Natural",
             "Owned": false,
             "Transmissivity": 11.3,
@@ -659,7 +659,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#ff9445",
+            "Color": "#ea5e1a",
             "Name": "Prusa Orange",
             "Owned": false,
             "Transmissivity": 6.4,
@@ -668,7 +668,7 @@
         },
         {
             "Brand": "Prusament",
-            "Color": "#c3dbbf",
+            "Color": "#999596",
             "Name": "Urban Grey",
             "Owned": false,
             "Transmissivity": 0.5,
